@@ -6,170 +6,170 @@
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "excerpt": "Python tool for converting files and office documents to Markdown.",
-      "meta": "Python · ★ 138,144 · 🍴 9,414 · 📈 3,086 stars today",
+      "meta": "Python · ★ 138,239 · 🍴 9,416 · 📈 3,086 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Python 工具，将 PDF、Office 文档等转换为 Markdown 格式，方便后续处理与 AI 调用。适用于需要批量转换文档格式的开发者、数据工程师和知识管理场景。"
+      "summary": "Python 工具，可将各类文件（包括 Office 文档）转换为 Markdown 格式，方便内容提取与文档迁移，适合需要批量转换文档为轻量级标记格式的开发者和知识工作者。"
     },
     {
       "sourceId": "github-trending",
       "title": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "excerpt": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "meta": "Python · ★ 11,156 · 🍴 1,447 · 📈 984 stars today",
+      "meta": "Python · ★ 11,206 · 🍴 1,447 · 📈 984 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hermes Agent 的 Web 界面，支持在浏览器或手机端操控 AI 代理，无需终端。适合希望远程使用 Hermes Agent 的开发者与普通用户。"
+      "summary": "Hermes Agent 的 Web 用户界面，支持从网页或手机端便捷操作 AI 代理，提供直观的交互体验，适合需要远程或移动端控制 Hermes Agent 的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "excerpt": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "meta": "TypeScript · ★ 23,914 · 🍴 2,141 · 📈 660 stars today",
+      "meta": "TypeScript · ★ 23,934 · 🍴 2,141 · 📈 660 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能、可扩展的记忆引擎与 app，提供 Memory API 供 AI 应用调用，管理长期上下文。适用于需要持久化记忆的 AI 开发者与智能助手场景。"
+      "summary": "为 AI 时代设计的极速、可扩展的记忆引擎和 API，可为应用程序提供长期记忆存储与检索，适用于构建需要持久上下文的对话系统或智能代理。"
     },
     {
       "sourceId": "github-trending",
       "title": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "excerpt": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "meta": "Python · ★ 76,750 · 🍴 10,888 · 📈 3,325 stars today",
+      "meta": "Python · ★ 76,775 · 🍴 10,891 · 📈 3,325 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用大语言模型一键生成高清短视频，自动完成脚本、配音与画面合成。内容创作者可快速产出营销或科普类视频，降低制作门槛。"
+      "summary": "利用 AI 大模型一键生成高清短视频，输入文案或主题即可自动产出视频内容，适用于快速制作营销素材、社交媒体短片的个人或团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "excerpt": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "meta": "Python · ★ 57,928 · 🍴 5,625 · 📈 1,475 stars today",
+      "meta": "Python · ★ 57,964 · 🍴 5,625 · 📈 1,475 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自适应 Web 抓取框架，从单次请求到全站爬取均能自动处理反爬与页面变化。数据采集工程师和研究人员可用它稳定获取网页数据。"
+      "summary": "自适应 Web 抓取框架，支持从单请求到全站爬取的多种模式，自动处理反爬与内容提取，适合需要大规模数据采集的开发者和数据科学家。"
     },
     {
       "sourceId": "github-trending",
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "excerpt": "The design language that makes your AI harness better at design.",
-      "meta": "JavaScript · ★ 32,624 · 🍴 1,779 · 📈 612 stars today",
+      "meta": "JavaScript · ★ 32,649 · 🍴 1,779 · 📈 612 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI 辅助设计的设计语言，让 AI 工具更懂设计规范，输出结果更美观。设计师与 AI 工具开发者可借此提升生成内容的视觉质量。"
+      "summary": "专为提升 AI 工具设计能力而生的设计语言，提供一套规范与组件，帮助开发者更高效地构建美观、一致的 AI 交互界面。"
     },
     {
       "sourceId": "github-trending",
       "title": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "excerpt": "Fully automatic censorship removal for language models",
-      "meta": "Python · ★ 23,008 · 🍴 2,463 · 📈 241 stars today",
+      "meta": "Python · ★ 23,013 · 🍴 2,465 · 📈 241 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自动去除语言模型输出中审查内容的工具，用于 AI 安全研究和模型行为分析。研究人员可借此测试模型原生的回答倾向，但需注意合规风险。"
+      "summary": "全自动去除语言模型内容审查的工具，通过技术手段绕过模型输出限制，适用于研究模型安全与内容过滤机制的开发者（需注意合规性）。"
     },
     {
       "sourceId": "github-trending",
       "title": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "excerpt": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "meta": "TypeScript · ★ 19,071 · 🍴 1,428 · 📈 428 stars today",
+      "meta": "TypeScript · ★ 19,082 · 🍴 1,428 · 📈 428 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "复合工程插件，官方支持 Claude Code、Codex、Cursor 等编辑器，提供专用提示词和工作流。开发者可更高效地在 IDE 中完成复杂编程任务。"
+      "summary": "复合工程插件，可为 Claude Code、Codex、Cursor 等开发工具增强代码工程能力，支持多步骤复杂任务编排，适合需要自动化工程流程的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "excerpt": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "meta": "Python · ★ 81,712 · 🍴 15,885 · 📈 284 stars today",
+      "meta": "Python · ★ 81,728 · 🍴 15,888 · 📈 284 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于多智能体 LLM 的金融交易框架，通过多个 AI 角色协作分析市场并执行策略。量化交易研究员和算法开发者可用于构建自主交易系统。"
+      "summary": "基于多智能体 LLM 的金融交易框架，利用多个 AI 代理协同分析市场数据并执行交易策略，适用于量化交易研究和自动化投资场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "excerpt": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "meta": "HTML · ★ 5,102 · 🍴 687 · 📈 527 stars today",
+      "meta": "HTML · ★ 5,120 · 🍴 688 · 📈 527 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "元技能系统，可定义领域专用代理团队、为每个代理分配角色并生成所需能力。适合构建复杂多智能体协作系统的开发者与 AI 研究员。"
+      "summary": "一种元技能框架，可自动设计领域特定的智能体团队、定义专用代理，并生成它们所需的技能，适用于构建复杂多智能体系统的开发者和研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "excerpt": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "meta": "C++ · ★ 111,605 · 🍴 25,509 · 📈 121 stars today",
+      "meta": "C++ · ★ 111,620 · 🍴 25,509 · 📈 121 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台 2D/3D 游戏引擎，支持可视化编辑与 GDScript 编程，完全开源免费。独立游戏开发者、教育领域及小型团队的首选引擎之一。"
+      "summary": "跨平台 2D 和 3D 游戏引擎，提供可视化编辑器与脚本系统，支持发布到桌面、移动端和 Web，适合独立开发者和团队快速制作高质量游戏。"
     },
     {
       "sourceId": "github-trending",
       "title": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
       "excerpt": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "meta": "TypeScript · ★ 9,431 · 🍴 759 · 📈 333 stars today",
+      "meta": "TypeScript · ★ 9,436 · 🍴 759 · 📈 333 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "终端 AI 编码代理，支持哈希锚定编辑、LSP、浏览器控制及子代理，集成 Python 和 Rust。程序员可加速代码修改、调试与自动化任务。"
+      "summary": "终端 AI 编码助手，支持哈希锚定点编辑、LSP、Python、浏览器、子代理等功能，优化工具链与效率，适合在命令行环境中辅助编程的开发人员。"
     },
     {
       "sourceId": "github-trending",
       "title": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "excerpt": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "meta": "Python · ★ 24,173 · 🍴 2,784 · 📈 880 stars today",
+      "meta": "Python · ★ 24,191 · 🍴 2,786 · 📈 880 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "无 Tokenizer 的多语言语音合成模型，支持自然语音生成、创意声音设计及人声克隆。语音研究者和开发者可用于构建高保真 TTS 应用。"
+      "summary": "无 Tokenizer 的多语言文本转语音模型，支持创意声音设计与真实语音克隆，能生成自然流畅的语音，适合语音助手、内容创作等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "FareedKhan-dev/train-llm-from-scratch",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "excerpt": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "meta": "Jupyter Notebook · ★ 3,668 · 🍴 514 · 📈 860 stars today",
+      "meta": "Jupyter Notebook · ★ 3,683 · 🍴 515 · 📈 860 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "从数据下载到文本生成，提供一套清晰、可操作的 LLM 训练方法。适合想从头实践语言模型训练的深度学习工程师和研究者。"
+      "summary": "从头训练大语言模型的实用教程，涵盖数据下载、预处理、训练到文本生成全流程，提供清晰方法，适合希望动手实践 LLM 训练的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "stefan-jansen/machine-learning-for-trading",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "excerpt": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "meta": "Jupyter Notebook · ★ 17,803 · 🍴 5,182 · 📈 82 stars today",
+      "meta": "Jupyter Notebook · ★ 17,822 · 🍴 5,182 · 📈 82 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "《算法交易机器学习》第二版配套代码，涵盖时间序列、强化学习等交易场景的 ML 实现。量化分析师和金融开发者可用于学习与实践。"
+      "summary": "《机器学习在算法交易中的应用》第二版配套代码，演示机器学习方法在金融数据分析和交易策略中的实现，适合量化交易和金融科技从业者。"
     },
     {
       "sourceId": "github-trending",
       "title": "dmtrKovalenko/fff",
       "url": "https://github.com/dmtrKovalenko/fff",
       "excerpt": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "meta": "Rust · ★ 7,135 · 🍴 298 · 📈 121 stars today",
+      "meta": "Rust · ★ 7,150 · 🍴 298 · 📈 121 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "极速且精准的文件搜索工具包，提供 API 和 CLI，支持 Neovim、Rust、C、NodeJS 及 AI 代理。开发者可快速集成到代码编辑器或自动化流程中。"
+      "summary": "极速且高精度的文件搜索工具包，为 AI 代理、Neovim、Rust、C 和 NodeJS 提供原生接口，适合需要高性能文件查找的开发环境和自动化工具。"
     },
     {
       "sourceId": "github-trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 510,329 · 🍴 48,387 · 📈 1,194 stars today",
+      "meta": "Markdown · ★ 510,360 · 🍴 48,387 · 📈 1,194 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "精选教程合集，引导开发者从零实现 Git、数据库、Docker 等经典技术。适合想要深入理解底层原理的中高级程序员学习实践。"
+      "summary": "收录从零重建 Git、数据库、容器等技术的实战教程，通过动手实现经典系统来深入理解编程原理，适合希望提升底层能力的开发者自学。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -254,19 +254,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "美区 AppleID 有办法用中国教育优惠认证吗？",
-      "url": "https://www.v2ex.com/t/1216754",
-      "excerpt": "9 回复 · Apple 节点",
-      "publishedAt": "2026-05-31T03:10:41.000Z",
+      "title": "Codex 免费账号 重置周期变为一个月！",
+      "url": "https://www.v2ex.com/t/1217154",
+      "excerpt": "9 回复 · 程序员 节点",
+      "publishedAt": "2026-06-01T15:23:08.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "Codex 免费账号 重置周期变为一个月！",
-      "url": "https://www.v2ex.com/t/1217154",
-      "excerpt": "8 回复 · 程序员 节点",
-      "publishedAt": "2026-06-01T15:23:08.000Z",
+      "title": "美区 AppleID 有办法用中国教育优惠认证吗？",
+      "url": "https://www.v2ex.com/t/1216754",
+      "excerpt": "9 回复 · Apple 节点",
+      "publishedAt": "2026-05-31T03:10:41.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -425,19 +425,19 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "【干草铺公益站】额度调整通知",
-      "url": "https://linux.do/t/topic/2282585",
-      "excerpt": "各位佬友，公益站的额度调整请大家周知～先给一组数字大家就明白为什么要调整了： 总用户数：3300 用户持有余额：52.5 万刀 每天签到获得的总额度：6.6 万刀 每天总消耗额度：0.3万刀 很多佬友在评论和私信里都希望能放开更多的注册，我们用户现在持有的余额总量导致我一直不敢放开，但是从这些统计数字来看大量的用户只囤积并没有实际的使用需求，导致公益站一直不敢放量更多新用户，权衡之下做出以下调整，以下是引用公益站的公告 ： 额度系统调整说明： 为什么有人余额变少了？ 为什么有人余额变多了？ 额度现在分两种： 签到额度：每天签到补满，上限 30 刀，用完再签才有得领 兑换额度：通过兑换码充值，无",
-      "publishedAt": "2026-06-01T02:36:59.000Z",
+      "title": "一个号活一周：我做 AI 中转的半个月",
+      "url": "https://linux.do/t/topic/2287601",
+      "excerpt": "一 一切开始的时候，我只是自己用 AI，自己折腾。先是 cliproxyplus 反代 Copilot，后来反代 GPT，再后来是那些比较麻烦但是便宜的、经济的渠道。 直到有朋友说，搞不好可以做点中转。 我想了想，觉得好像也不是不行。 后来我才知道，一件事说\"好像也不是不行\"的时候，多半是要为它付出代价的。 二 真正商业化是 5 月 13 号。 那天之前，我手里有一些 OpenAI Plus 号，还有当时 KIRO 那边的一个口子，可以低成本做出 Pro 号。我甚至写了一个浏览器自动化注册机，除了验证码那一步，其它都能跑。一个 GitHub 账号两块钱，一张卡两三块钱，一个号成本四五块，我卖十",
+      "publishedAt": "2026-06-01T15:46:10.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
     {
       "sourceId": "linuxdo",
-      "title": "一个号活一周：我做 AI 中转的半个月",
-      "url": "https://linux.do/t/topic/2287601",
-      "excerpt": "一 一切开始的时候，我只是自己用 AI，自己折腾。先是 cliproxyplus 反代 Copilot，后来反代 GPT，再后来是那些比较麻烦但是便宜的、经济的渠道。 直到有朋友说，搞不好可以做点中转。 我想了想，觉得好像也不是不行。 后来我才知道，一件事说\"好像也不是不行\"的时候，多半是要为它付出代价的。 二 真正商业化是 5 月 13 号。 那天之前，我手里有一些 OpenAI Plus 号，还有当时 KIRO 那边的一个口子，可以低成本做出 Pro 号。我甚至写了一个浏览器自动化注册机，除了验证码那一步，其它都能跑。一个 GitHub 账号两块钱，一张卡两三块钱，一个号成本四五块，我卖十",
-      "publishedAt": "2026-06-01T15:46:10.000Z",
+      "title": "【干草铺公益站】额度调整通知",
+      "url": "https://linux.do/t/topic/2282585",
+      "excerpt": "各位佬友，公益站的额度调整请大家周知～先给一组数字大家就明白为什么要调整了： 总用户数：3300 用户持有余额：52.5 万刀 每天签到获得的总额度：6.6 万刀 每天总消耗额度：0.3万刀 很多佬友在评论和私信里都希望能放开更多的注册，我们用户现在持有的余额总量导致我一直不敢放开，但是从这些统计数字来看大量的用户只囤积并没有实际的使用需求，导致公益站一直不敢放量更多新用户，权衡之下做出以下调整，以下是引用公益站的公告 ： 额度系统调整说明： 为什么有人余额变少了？ 为什么有人余额变多了？ 额度现在分两种： 签到额度：每天签到补满，上限 30 刀，用完再签才有得领 兑换额度：通过兑换码充值，无",
+      "publishedAt": "2026-06-01T02:36:59.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -517,7 +517,7 @@
       "sourceId": "linuxdo",
       "title": "Any的opus4.8是不是拉闸了？（附置顶解决方案）",
       "url": "https://linux.do/t/topic/2284696",
-      "excerpt": "只能回复第一个问题，之后卡死了，只能重启对话，然后也是只能回复第一个问题。如果any后台记录看到 请求并计费模型: 实际模型: 已经置顶解决方案： 经尝试评论区各个方案，回退版本到154及之前，同时使用这个佬的配置方案，可以稳定跑any 65 个帖子 - 35 位参与者 阅读完整话题",
+      "excerpt": "只能回复第一个问题，之后卡死了，只能重启对话，然后也是只能回复第一个问题。如果any后台记录看到 请求并计费模型: 实际模型: 已经置顶解决方案： 经尝试评论区各个方案，回退版本到154及之前，同时使用这个佬的配置方案，可以稳定跑any 66 个帖子 - 36 位参与者 阅读完整话题",
       "publishedAt": "2026-06-01T07:38:56.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -560,6 +560,15 @@
     },
     {
       "sourceId": "linuxdo",
+      "title": "「慢讯」MiniMax 专坑国人",
+      "url": "https://linux.do/t/topic/2286885",
+      "excerpt": "信源来自 minimax 官网：（截图时间 20260601 晚上 21:44） MiniMax API Platform MiniMax API 开放平台 单价：（月度订阅和年度订阅都是海外官网更便宜） Token Plan API 退款方法： https://linux.do/t/topic/2284553 minimax 想要道歉的话，可以说是海外定价策略失误，因为你们海外max的订阅性价比反而比ultra的高 不过好像也道歉不了喔，国内 ultra 是8.5RMB / 亿 tokens，国外 ultra是 8.27RMB/亿 tokens，而且 api 价格也是国外更便宜，还是专坑国人",
+      "publishedAt": "2026-06-01T13:46:35.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
       "title": "防止你不知道minimax这个MSA的介绍图是gpt做的",
       "url": "https://linux.do/t/topic/2282222",
       "excerpt": "11 个帖子 - 9 位参与者 阅读完整话题",
@@ -578,28 +587,10 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "「慢讯」MiniMax 专坑国人",
-      "url": "https://linux.do/t/topic/2286885",
-      "excerpt": "信源来自 minimax 官网：（截图时间 20260601 晚上 21:44） MiniMax API Platform MiniMax API 开放平台 单价：（月度订阅和年度订阅都是海外官网更便宜） Token Plan API 退款方法： https://linux.do/t/topic/2284553 minimax 想要道歉的话，可以说是海外定价策略失误，因为你们海外max的订阅性价比反而比ultra的高 不过好像也道歉不了喔，国内 ultra 是8.5RMB / 亿 tokens，国外 ultra是 8.27RMB/亿 tokens，而且 api 价格也是国外更便宜，还是专坑国人",
-      "publishedAt": "2026-06-01T13:46:35.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
       "title": "【CHY公益站】服务器集群中新增一台8核16G服务器",
       "url": "https://linux.do/t/topic/2285262",
-      "excerpt": "发现学校里有台校长不要的电脑，直接就把它搬到家里云里好吧 25 个帖子 - 23 位参与者 阅读完整话题",
+      "excerpt": "发现学校里有台校长不要的电脑，直接就把它搬到家里云里好吧 26 个帖子 - 24 位参与者 阅读完整话题",
       "publishedAt": "2026-06-01T08:53:22.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
-      "title": "[深夜Tokens] GPT5.5 1W刀 速蹬",
-      "url": "https://linux.do/t/topic/2288021",
-      "excerpt": "sk-C8mA5yGSpmyjsPwoG4eppaWIWbQtzhPaEiYjjUu5QymbPKQa https://api.fwhzfyy.asia/v1 15 个帖子 - 13 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-01T18:59:00.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -622,6 +613,15 @@
       "source": "LinuxDo"
     },
     {
+      "sourceId": "linuxdo",
+      "title": "中国移动 6月话费流量汇总 领随机话费流量券",
+      "url": "https://linux.do/t/topic/2284963",
+      "excerpt": "1、【一豆油好礼 赢88元话费券】即日起至2026年至6月30日，移动用户登录页面参与抽奖可赢1元/2元/10元/88元话费兑换券、100MB/200MB/1GB流量日包券等；https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/ydyhl?channelCode=P00000145029&pageRecorded=true 2、【和包 话费狂欢季】即日起至2026年至6月30日，移动用户登陆可领2元话费优惠券、5元话费优惠券，均为满20元可用。https://ump.cmpay.com/front-msa/mak",
+      "publishedAt": "2026-06-01T08:12:04.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
       "sourceId": "openai-news",
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
       "url": "https://openai.com/index/stargate-michigan-data-center",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-06-01T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI在密歇根州启动1GW数据中心项目（Stargate计划），旨在扩建AI基础设施，创造就业并支持社区发展。"
+      "summary": "OpenAI 在密歇根州启动 Stargate 项目，开工建设一座 1GW 数据中心，以扩建 AI 基础设施、创造就业并支持社区。"
     },
     {
       "sourceId": "openai-news",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-06-01T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI前沿模型及Codex现已在AWS上全面可用，企业可通过熟悉的AWS环境、控制机制和采购流程构建应用。"
+      "summary": "OpenAI 前沿模型和 Codex 在 AWS 上正式可用，企业可通过现有 AWS 环境和工作流程使用 OpenAI 工具。"
     },
     {
       "sourceId": "openai-news",
@@ -649,7 +649,7 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "波士顿儿童医院借助OpenAI技术诊断超40例罕见病，改善了患者护理并减轻运营负担。"
+      "summary": "波士顿儿童医院利用 OpenAI 技术改善患者护理，诊断出超过 40 种罕见疾病病例。"
     },
     {
       "sourceId": "openai-news",
@@ -659,7 +659,7 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Braintrust工程团队利用Codex搭配GPT-5.5，将客户需求快速转化为代码，加速实验与开发流程。"
+      "summary": "Braintrust 工程师使用 OpenAI Codex 和 GPT-5.5 将客户需求转化为代码，加速实验和编码。"
     },
     {
       "sourceId": "openai-news",
@@ -669,7 +669,7 @@
       "publishedAt": "2026-05-29T03:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Rosalind Biodefense，向经过审查的开发者及美国政府合作伙伴提供GPT-Rosalind，用于生物防御、公共卫生和大流行防范。"
+      "summary": "OpenAI 推出 Rosalind Biodefense，为经审核的开发者和美国政府合作伙伴提供 GPT-Rosalind 访问权限，推进生物防御和公共卫生。"
     },
     {
       "sourceId": "openai-news",
@@ -679,7 +679,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布第三方AI评估共享指南，涵盖模型能力、安全防护和有效性评估，旨在确保前沿系统的可信度。"
+      "summary": "OpenAI 发布第三方 AI 评估指南，涵盖如何评估前沿模型的能力、安全防护和有效性。"
     },
     {
       "sourceId": "openai-news",
@@ -1175,7 +1175,7 @@
       "publishedAt": "2026-06-01T15:45:17.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "JetBrains推出Mellum2，一个120亿参数的混合专家模型（MoE），专注于高效推理与代码生成。"
+      "summary": "JetBrains 发布 Mellum2，一个 12B 参数的混合专家模型（MoE）。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1185,7 +1185,7 @@
       "publishedAt": "2026-06-01T13:51:18.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "IBM研究指出，企业可扩展AI采用需超越大语言模型，依赖智能体逻辑实现复杂工作流自动化和可控性。"
+      "summary": "IBM 研究指出，企业大规模采用 AI 的关键在于智能体逻辑，而不仅仅是大型语言模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1195,7 +1195,7 @@
       "publishedAt": "2026-06-01T04:44:55.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA发布Cosmos 3，首个开源全能模型，用于物理世界的推理与行动，支持机器人、自动驾驶等物理AI场景。"
+      "summary": "NVIDIA 发布 Cosmos 3，首个面向物理 AI 推理与行动的开源全能模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1456,7 +1456,7 @@
       "url": "https://huggingface.co/papers/2605.30621",
       "excerpt": "LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from execution evidence. Yet it ",
       "publishedAt": "2026-05-28T00:00:00.000Z",
-      "meta": "👍 3",
+      "meta": "👍 4",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1566,7 +1566,7 @@
       "url": "https://huggingface.co/papers/2605.29307",
       "excerpt": "Large Language Model (LLM) search agents have shown strong promise for knowledge-intensive language tasks through multiple rounds of reasoning and information retrieval. Most existing systems access information using a retriever that takes a keyword or natural language query and returns a ranked lis",
       "publishedAt": "2026-05-28T00:00:00.000Z",
-      "meta": "👍 82",
+      "meta": "👍 84",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1596,7 +1596,7 @@
       "url": "https://huggingface.co/papers/2605.31159",
       "excerpt": "On-policy distillation (OPD) trains a student on prefixes sampled from its own policy while matching a stronger teacher. This addresses the prefix mismatch of offline distillation, but early student rollouts can still be poor, placing teacher supervision on weak or low-quality prefixes. We propose T",
       "publishedAt": "2026-05-29T00:00:00.000Z",
-      "meta": "👍 50",
+      "meta": "👍 51",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1748,7 +1748,7 @@
       "publishedAt": "2026-06-01T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "今日AI动态：微软Copilot超级应用泄露；Minimax发布M3模型；Nvidia推出N1X芯片。"
+      "summary": "科技动态：Copilot 超级应用泄露，Minimax 发布 M3 模型，Nvidia 推出 N1X。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1929,7 +1929,7 @@
       "publishedAt": "2026-05-29T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Anthropic发布Claude Opus 4.8，带来协作和编码改进，但文档解析出现回退；平台更新支持对话中系统指令。"
+      "summary": "Anthropic 发布 Claude Opus 4.8，性能小幅提升但基准测试结果不一，新增对话中途系统指令功能。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2200,7 +2200,7 @@
       "publishedAt": "2026-06-01T15:41:48.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "xAI Grok Imagine团队负责人伊森·何深入探讨视频生成与世界模型的区别，解释Grok Imagine为何被低估，并分享三个月构建经验。"
+      "summary": "xAI 的 Ethan He 分享 Grok Imagine 视频智能体模型，称其用 3 个月建成，讨论视频生成与世界模型对比，并解释 Grok Imagine 被低估的原因。"
     },
     {
       "sourceId": "latent-space",
@@ -2210,7 +2210,7 @@
       "publishedAt": "2026-05-30T01:57:15.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻：在相对平静的一天，重点介绍了新的AI工程师工作流焦点，涉及创始人与前向部署工程师。"
+      "summary": "AI 新闻：当天消息较少，重点介绍 AI 初创公司创始人和前端部署工程师的新焦点。"
     },
     {
       "sourceId": "latent-space",
@@ -2220,7 +2220,7 @@
       "publishedAt": "2026-05-29T02:07:24.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic完成9650亿美元H轮融资，同时发布Claude Opus 4.8模型及动态工作流/超代码功能。"
+      "summary": "Anthropic 完成 9650 亿美元 H 轮融资，同时发布 Claude Opus 4.8 和 Dynamic Workflows/Ultracode 功能。"
     },
     {
       "sourceId": "latent-space",
@@ -2383,7 +2383,7 @@
       "publishedAt": "2026-05-29T10:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "教皇利奥十四世发布通谕《Magnifica Humanitas》，强调“技术从不中立”，号召所有人以勇气和智慧应对AI时代。"
+      "summary": "教皇利奥十四世发布通谕《Magnifica Humanitas》，认为「技术绝非中性」，为个人应对 AI 时代提供指引。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2468,13 +2468,23 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Oil Holds Biggest Gain in a Month on US-Iran Talk Uncertainty",
+      "title": "Oil Holds Biggest Gain in a Month on Standoff in US-Iran Talks",
       "url": "https://www.bloomberg.com/news/articles/2026-06-01/latest-oil-market-news-and-analysis-for-june-2",
       "excerpt": "Oil steadied after its biggest gain in about a month, as uncertainty about the state of US-Iran peace talks raised the risk that energy flows from the Persian Gulf could be curtailed for longer.",
       "publishedAt": "2026-06-01T22:01:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "原油价格在美伊谈判不确定性推动下录得一个月来最大涨幅后企稳，波斯湾能源供应可能更长期受限。"
+      "summary": "油价在约一个月最大涨幅后企稳，美伊和谈不确定性提升波斯湾能源供应受限风险。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Holds Gains, US Futures Slip on War Confusion: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/oil-holds-gains-us-futures-slip-on-war-confusion-markets-wrap",
+      "excerpt": "US equity futures edged lower and oil held gains as Washington struggled to get efforts toward an Iran peace deal back on track.",
+      "publishedAt": "2026-06-01T22:12:24.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国股指期货小幅下跌，油价维持涨势，因华盛顿在推动伊朗和平协议方面遇阻。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2484,7 +2494,7 @@
       "publishedAt": "2026-06-01T22:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "预计2026/27年度澳大利亚冬小麦产量因干旱、低价及中东战争推高投入成本而下降26%。"
+      "summary": "澳大利亚2026/27年度冬小麦产量预计下降逾四分之一，因异常干旱天气、全球低价及中东战争推高投入成本。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2494,7 +2504,7 @@
       "publishedAt": "2026-06-01T21:55:52.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Anthropic 提交机密IPO申请，领先于OpenAI，在争夺算力的AI初创融资竞赛中扩大先发优势。"
+      "summary": "Anthropic于周一秘密提交IPO申请，领先OpenAI，两家AI初创公司争夺融资优势，以决定最终算力胜者。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2504,7 +2514,7 @@
       "publishedAt": "2026-06-01T21:42:34.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Elliott 投资管理公司已持有澳大利亚矿业公司 Northern Star Resources 大量股份，推动其进行战略评估和领导层变动。"
+      "summary": "埃利奥特投资管理公司已大量持股澳大利亚矿业公司Northern Star Resources，并推动战略评估和领导层变更。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2514,7 +2524,7 @@
       "publishedAt": "2026-06-01T21:32:31.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国商品期货交易委员会（CFTC）向五名举报人奖励逾800万美元，因其信息帮助追回欺诈投资者资金。"
+      "summary": "美国商品期货交易委员会将向五位举报人发放超800万美元奖金，因其提供信息帮助追回被骗投资者资金。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2560,7 +2570,7 @@
       "publishedAt": "2026-06-01T21:05:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Newfound Research CEO Corey Hoffstein 在 Bloomberg ETF IQ 节目中讨论 Return Stacked US Stocks and Managed Futures ETF（RSST）跑赢标普500。"
+      "summary": "Return Stacked美国股票和管理期货ETF（代码RSST）表现超越标普500指数，来自Bloomberg ETF IQ节目分析。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2579,7 +2589,7 @@
       "publishedAt": "2026-06-01T21:01:57.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "OpenAI 和 Anthropic 计划上市，但 SpaceX 拟于6月上市可能抢占风头，市场质疑AI明星IPO能否达到预期。"
+      "summary": "OpenAI和Anthropic正寻求上市，但有人担忧SpaceX计划6月上市将抢走风头。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2589,7 +2599,7 @@
       "publishedAt": "2026-06-01T21:00:52.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "摩根大通资产管理公司核心股票团队CIO Hamilton Reiner 在 Bloomberg ETF IQ 节目中讨论基于风险调整后的回报。"
+      "summary": "摩根大通资产管理公司美国核心股票团队CIO Hamilton Reiner在Bloomberg ETF IQ节目中讨论基于风险调整的回报。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2598,8 +2608,7 @@
       "excerpt": "Japan is slipping toward a banana shortage crisis, the latest disruption linked to the Middle East conflict.",
       "publishedAt": "2026-06-01T21:00:00.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "日本正面临香蕉短缺危机，这是中东冲突带来的最新供应链中断影响。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2608,8 +2617,7 @@
       "excerpt": "Bloomberg's Joel Weber puts Katie Greifeld and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
       "publishedAt": "2026-06-01T20:52:12.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Bloomberg 的 Joel Weber 在 Bloomberg ETF IQ 节目中对两位主持人进行ETF知识测试。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2734,15 +2742,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-05-31/latest-oil-market-news-and-analysis-for-june-1",
       "excerpt": "Oil rose by the most since early May as traders priced in signals that energy flows out of the Middle East could be curtailed further.",
       "publishedAt": "2026-05-31T22:02:15.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "FS KKR Is Selling $400 Million Bonds in Junk-Rated BDC Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/fs-kkr-is-selling-400-million-bonds-in-rare-junk-rated-bdc-deal",
-      "excerpt": "A private credit fund jointly managed by Future Standard and KKR & Co. is looking to sell at least $400 million of junk bonds, according to people familiar with the matter, in a rare high-yield offering by a publicly traded credit fund.",
-      "publishedAt": "2026-06-01T15:10:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2934,7 +2933,7 @@
       "publishedAt": "2026-06-01T22:05:54.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "Alphabet 计划出售800亿美元股票以资助人工智能基础设施支出，其中包括向伯克希尔哈撒韦私募发行100亿美元。"
+      "summary": "Alphabet计划出售800亿美元股票，为AI基础设施支出融资，其中包括向伯克希尔哈撒韦私募100亿美元。"
     },
     {
       "sourceId": "ft-companies",
@@ -2944,7 +2943,7 @@
       "publishedAt": "2026-06-01T21:48:18.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "慧与科技（HPE）股价飙升37%，因数据中心设备提供商报告服务器和网络设备销售快速增长，受益于AI基础设施需求旺盛。"
+      "summary": "慧与（HPE）股价飙升37%，因AI基础设施需求旺盛，数据中心设备供应商称服务器和网络设备销售快速增长。"
     },
     {
       "sourceId": "ft-companies",
@@ -3200,12 +3199,13 @@
     },
     {
       "sourceId": "bbc-business",
-      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
-      "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
-      "publishedAt": "2026-05-31T23:19:32.000Z",
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "publishedAt": "2026-06-01T23:05:11.000Z",
       "category": "finance",
-      "source": "BBC Business"
+      "source": "BBC Business",
+      "summary": "一些公司向员工施压要求使用AI，但未深思熟虑部署策略，导致混乱并损害企业利益。"
     },
     {
       "sourceId": "bbc-business",
@@ -3398,6 +3398,15 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
+      "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "publishedAt": "2026-05-31T23:19:32.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "Humanoid robots 'the future' of car making, says BMW",
       "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
       "excerpt": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
@@ -3411,15 +3420,6 @@
       "url": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
       "excerpt": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
       "publishedAt": "2026-05-27T23:14:43.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "The rise of the fruit that tastes like custard",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-      "publishedAt": "2026-05-27T10:58:45.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3701,7 +3701,7 @@
       "publishedAt": "2026-06-01T21:27:01.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "黎巴嫩称真主党同意对等停止攻击以色列。内塔尼亚胡警告若真主党不遵守美国提议，将打击贝鲁特。"
+      "summary": "黎巴嫩称真主党同意对等停止攻击以色列。以色列总理内塔尼亚胡警告，若真主党不遵守美国提议，将对贝鲁特发动打击。"
     },
     {
       "sourceId": "bbc-world",
@@ -3711,7 +3711,7 @@
       "publishedAt": "2026-06-01T21:50:52.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "BBC分析称特朗普需要结束战争，但伊朗不退缩。白宫推动协议，伊朗要求让步。"
+      "summary": "BBC国际编辑鲍文称，特朗普需要结束战争，但伊朗不会让步。白宫在民调和海湾盟友压力下推动协议，伊朗要求让步。"
     },
     {
       "sourceId": "bbc-world",
@@ -3793,7 +3793,7 @@
       "publishedAt": "2026-06-01T21:40:19.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "巴西两例疑似埃博拉病例已排除，患者检测为阴性。两人分别从刚果（金）和乌干达返回。"
+      "summary": "巴西两例疑似埃博拉病例被排除，患者检测为阴性。两人分别刚从刚果（金）和乌干达返回。"
     },
     {
       "sourceId": "bbc-world",
@@ -4015,8 +4015,8 @@
       "sourceId": "guardian-world",
       "title": "Mexico City police teargas teachers’ protest 10 days before World Cup",
       "url": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
-      "excerpt": "Clash began when teachers broke through metal barrier at entrance to Zocalo plaza, where fans will watch game Mexico City police hurled teargas at protesting teachers to keep them from reaching the historic square where the “Fan fest” for the 2026 World Cup is under construction, according to AFP jo",
-      "publishedAt": "2026-06-01T21:34:13.000Z",
+      "excerpt": "Teachers associated with CNTE union were marching toward Zócalo for salary raises and reversal of pension laws Riot police fired teargas at teachers who were marching toward Mexico City’s historic Zócalo plaza, just days before the square is expected to host the 2026 World Cup “Fan Fest”. The incide",
+      "publishedAt": "2026-06-01T22:59:39.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -4103,13 +4103,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia politics live: James Paterson says One Nation needs ‘increased scrutiny’; minimum wage rate set today",
+      "title": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Wong sanctions Israelis over West Bank violence",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "excerpt": "Shadow minister says the Coalition must treat minor party as an opponent, not an enemy. Follow today’s news live Get our breaking news email, free app or daily news podcast The foreign minister, Penny Wong, has announced new sanctions by the commonwealth over three Israeli individuals and four entit",
-      "publishedAt": "2026-06-01T21:52:20.000Z",
+      "excerpt": "Treasurer says Labor wants to address economic frustration whereas One Nation wants to benefit politically from it. Follow today’s news live Get our breaking news email, free app or daily news podcast The foreign minister, Penny Wong, has announced new sanctions by the commonwealth over three Israel",
+      "publishedAt": "2026-06-01T22:56:18.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚影子部长帕特森呼吁加强对单一民族党的审查。最低工资今日确定。外长黄英贤宣布对三名以色列人实施制裁。"
+      "summary": "澳大利亚财长查默斯表示经济困境将选民推向单一民族党；外长黄英贤宣布对以色列西岸暴力实施新制裁。"
     },
     {
       "sourceId": "guardian-world",
@@ -4197,10 +4197,10 @@
       "title": "Middle East crisis live: Lebanon’s US embassy says Hezbollah has agreed to ‘reciprocal’ ceasefire with Israel under US proposal",
       "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
       "excerpt": "Israeli prime minister Benjamin Netanyahu has meanwhile threatened to strike Beirut and says IDF will continue operations in southern Lebanon Iran suspends all peace talks in protest at Israeli offensive in Lebanon The exchange of strikes between the US and Iran reflects the fragility of the current",
-      "publishedAt": "2026-06-01T21:57:36.000Z",
+      "publishedAt": "2026-06-01T22:51:40.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "黎巴嫩美国大使馆称真主党同意在美国提议下与以色列“对等”停火。内塔尼亚胡威胁打击贝鲁特，伊朗暂停所有和平谈判。"
+      "summary": "美国驻黎巴嫩大使馆称真主党已同意基于美国提议与以色列实现“对等”停火。以色列总理内塔尼亚胡威胁打击贝鲁特，称以军将继续在黎南部行动。"
     },
     {
       "sourceId": "guardian-world",
@@ -4213,7 +4213,7 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Iran suspends peace talks after ‘violation of ceasefire’ in Lebanon",
+      "title": "Iran threatens to suspend peace talks after ‘violation of ceasefire’ in Lebanon",
       "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
       "excerpt": "Tehran says it holds Israel and US responsible, while Trump says ‘going silent’ on negotiations ‘would be very good’ Middle East live – latest updates Iran has indicated it will suspend peace talks with the US in protest against Israel’s offensive in Lebanon, threatening the collapse of negotiations",
       "publishedAt": "2026-06-01T17:48:00.000Z",
@@ -4243,10 +4243,10 @@
       "title": "Iran War Live Updates: Israel and Iran Step Back From Threats After Day of Tension",
       "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
       "excerpt": "President Trump wrote on social media that Israel and Hezbollah had “agreed” not to attack each other. Prime Minister Benjamin Netanyahu later distanced himself from talks of a cease-fire in Lebanon.",
-      "publishedAt": "2026-06-01T22:06:26.000Z",
+      "publishedAt": "2026-06-01T22:23:16.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "特朗普称以色列与真主党已“同意”互不攻击；以色列总理内塔尼亚胡随后淡化停火谈判，紧张局势暂缓。"
+      "summary": "特朗普在社交媒体称以色列与真主党已“同意”互不攻击。以色列总理内塔尼亚胡随后淡化黎巴嫩停火谈判。"
     },
     {
       "sourceId": "nyt-world",
@@ -4346,7 +4346,7 @@
       "publishedAt": "2026-06-01T21:54:01.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "台湾当局批评中国驱逐《纽约时报》记者，称中国以“毫无根据的借口”惩罚记者，是“麻烦制造者”。"
+      "summary": "台湾地区批评中国驱逐《纽约时报》记者。台总统发言人称中国以“毫无根据的借口”惩罚记者，是“麻烦制造者”。"
     },
     {
       "sourceId": "nyt-world",
@@ -4362,9 +4362,50 @@
       "title": "As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost",
       "url": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
       "excerpt": "Residents of coastal communities in Colombia and Ecuador said the airstrike campaign was making many reconsider anything involving the ocean as a livelihood.",
-      "publishedAt": "2026-05-31T15:05:04.000Z",
+      "publishedAt": "2026-06-01T22:17:09.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "美国船只袭击事件致死超过200人，哥伦比亚和厄瓜多尔沿海居民表示空袭行动使许多人重新考虑以海洋为生的生计。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Crested Ibises Get the Royal Treatment in Japan as They Fly Again",
+      "url": "https://www.nytimes.com/2026/06/01/world/asia/japan-crested-ibis.html",
+      "excerpt": "Once widespread in Japan, the colorful birds went from being fairly commonplace in the country to being on the verge of extinction.",
+      "publishedAt": "2026-06-01T23:09:24.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "日本对朱鹮（冠鹮）给予皇室待遇，该鸟曾广泛分布，后濒临灭绝，如今重新飞翔。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Stands to Gain a Key Ally in Colombia’s Upcoming Election",
+      "url": "https://www.nytimes.com/2026/06/01/world/trump-colombia-election-abelardo-de-la-espriella.html",
+      "excerpt": "Abelardo De La Espriella, a hard-line candidate on the right facing a left-wing rival in a presidential runoff, has pledged to crush drug traffickers.",
+      "publishedAt": "2026-06-01T23:07:04.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "哥伦比亚总统决选中，右翼强硬候选人阿贝拉尔多·德·拉·埃斯普里埃利亚承诺打击毒贩，特朗普有望获得关键盟友。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Finds High-Wire Iran Negotiations ‘Very Boring’",
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html",
+      "excerpt": "President Trump told CNBC that he “couldn’t care less” if the negotiations with Iran break down.",
+      "publishedAt": "2026-06-01T22:23:14.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "特朗普对CNBC表示，他对与伊朗的谈判是否破裂“毫不在意”，并称谈判“非常无聊”。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Mette Frederiksen Forms New Government in Denmark",
+      "url": "https://www.nytimes.com/2026/06/01/world/europe/denmark-mette-frederiksen.html",
+      "excerpt": "Mette Frederiksen may not be nearly as popular as she once was, but she remains the Danes’ most dominant leader in decades.",
+      "publishedAt": "2026-06-01T22:52:23.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "梅特·弗雷德里克森组建丹麦新政府。她虽不如以往受欢迎，但仍是数十年来丹麦最具主导地位的领导人。"
     },
     {
       "sourceId": "nyt-world",
@@ -4374,7 +4415,7 @@
       "publishedAt": "2026-06-01T21:54:49.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "特朗普称以色列与真主党将停止新军事行动。内塔尼亚胡未提及新停火，但黎巴嫩政府表示停火正在形成。"
+      "summary": "特朗普称以色列和真主党将暂停新的军事行动。以色列总理内塔尼亚胡的声明未提及新的停火，但黎巴嫩政府表示停火正在形成。"
     },
     {
       "sourceId": "nyt-world",
@@ -4383,8 +4424,7 @@
       "excerpt": "A Times correspondent is reporting from the Ebola epicenter in the Democratic Republic of Congo. Here’s what he saw.",
       "publishedAt": "2026-06-01T21:05:27.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "《纽约时报》记者在刚果（金）埃博拉疫情中心报道，介绍疫情内部情况。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4393,8 +4433,7 @@
       "excerpt": "In an interview with The Times, Nabih Berri, an influential Lebanese lawmaker close to Hezbollah, called on President Trump to broker a new cease-fire.",
       "publishedAt": "2026-06-01T20:59:28.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "真主党盟友、黎巴嫩议员贝里表示真主党希望与以色列达成新停火，呼吁特朗普斡旋。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4448,8 +4487,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-01T21:10:50.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "纽约时报伊朗战争直播更新，暂无具体细节。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4479,42 +4517,6 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "Timeline: Where and When Trump Has Involved the U.S. Military in International Conflicts",
-      "url": "https://www.nytimes.com/2026/05/31/us/politics/trumps-military-wars.html",
-      "excerpt": "The United States has been involved in many military operations around the world since President Trump returned to office.",
-      "publishedAt": "2026-05-31T17:06:02.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
-      "url": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html",
-      "excerpt": "The seizure of Beaufort in southern Lebanon called up bitter memories in both countries amid a widening Israeli conflict with Hezbollah that seems far from over.",
-      "publishedAt": "2026-06-01T16:16:36.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
-      "url": "https://www.nytimes.com/2026/05/31/world/americas/cuba-trash-fuel-blockade.html",
-      "excerpt": "A fuel blockade on Cuba has aggravated a lack of consistent garbage pickup and produced enormous trash piles.",
-      "publishedAt": "2026-05-31T09:01:51.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "To Improve Ukraine’s Military, She Calls Out the Ugly Parts",
-      "url": "https://www.nytimes.com/2026/05/31/world/europe/ukraine-military-soldiers-ombudsman.html",
-      "excerpt": "Olha Reshetylova has been tasked by the government with overseeing soldiers’ rights. Some commanders resent her, but she says her work makes the armed forces stronger.",
-      "publishedAt": "2026-05-31T14:45:21.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
       "sourceId": "npr-world",
       "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
       "url": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
@@ -4522,7 +4524,7 @@
       "publishedAt": "2026-06-01T21:28:48.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "伊朗因以色列在黎巴嫩和加沙的行动暂停与美国谈判。特朗普称以色列与真主党将停止战斗。"
+      "summary": "伊朗因以色列在黎巴嫩南部和加沙的行动暂停与美国谈判。特朗普称以色列和真主党将停止战斗。"
     },
     {
       "sourceId": "npr-world",
@@ -4883,7 +4885,7 @@
       "publishedAt": "2026-06-01T21:15:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "纽约以色列日游行参与者包括以色列和美国官员，由半岛电视台视频报道。"
+      "summary": "半岛电视台报道了今年纽约以色列日游行的出席者，包括以色列和美国官员。"
     },
     {
       "sourceId": "aljazeera",
@@ -4892,8 +4894,7 @@
       "excerpt": "Abelardo de la Espriella will face left-wing Senator Ivan Cepeda in the run-off for Colombia’s presidential election.",
       "publishedAt": "2026-06-01T21:08:44.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "哥伦比亚总统选举进入决选，右翼候选人埃斯普里埃拉将对阵左翼参议员塞佩达，局势紧张。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4902,8 +4903,7 @@
       "excerpt": "‘Lord, please forgive us for all the things that we did that we did not support Israel.’",
       "publishedAt": "2026-06-01T21:01:11.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "外国基督徒在以色列议会请求宽恕未能支持以色列。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
