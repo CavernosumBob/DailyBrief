@@ -6,130 +6,130 @@
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "Shell · ★ 56,717 · 🍴 6,111 · 📈 2,660 stars today",
+      "meta": "Shell · ★ 56,724 · 🍴 6,113 · 📈 2,660 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为AI编码代理提供生产级工程技能集，包含规范化提示、工具链和最佳实践，帮助开发者构建更可靠、高效的代码生成助手。"
+      "summary": "为AI编码智能体提供生产级工程技能的集合，包含代码审查、测试生成、调试等专业化能力。开发者可将其集成到智能体框架中，提升编码Agent的自主工程水平。适用于构建高质量代码助手和自动化开发流水线。"
     },
     {
       "sourceId": "github-trending",
       "title": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "excerpt": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "meta": "Python · ★ 1,763 · 🍴 422 · 📈 6 stars today",
+      "meta": "Python · ★ 1,765 · 🍴 422 · 📈 6 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源音乐媒体库管理器，连接Spotify、Tidal等流媒体服务和各类智能音箱，提供统一播放控制与曲库管理，服务器端核心组件。"
+      "summary": "开源媒体库管理服务器，统一管理流媒体服务和智能音箱。支持多平台、多设备，实现跨服务的音乐播放与同步。适合家庭音乐爱好者或智能家居用户，通过自建服务器整合碎片化的音乐资源。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattermost/mattermost",
       "url": "https://github.com/mattermost/mattermost",
       "excerpt": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-      "meta": "TypeScript · ★ 37,614 · 🍴 8,712 · 📈 391 stars today",
+      "meta": "TypeScript · ★ 37,616 · 🍴 8,712 · 📈 391 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源团队协作平台，聚焦安全通信与DevOps工作流，支持消息、文件共享及开发工具集成，适用于企业内网部署和自托管场景。"
+      "summary": "开源协作平台，覆盖软件开发生命周期的安全沟通、项目管理与DevOps集成。采用Go语言开发，支持自托管部署，提供频道、机器人、Webhook等特性。适用于企业或开发团队，替代Slack实现数据本地化管控。"
     },
     {
       "sourceId": "github-trending",
       "title": "apple/container",
       "url": "https://github.com/apple/container",
       "excerpt": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "meta": "Swift · ★ 35,012 · 🍴 974 · 📈 3,513 stars today",
+      "meta": "Swift · ★ 35,022 · 🍴 975 · 📈 3,513 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Apple开源的容器运行时工具，基于轻量级虚拟机在macOS上运行Linux容器，专为Apple Silicon优化，使用Swift编写，提供原生体验。"
+      "summary": "在Mac上创建和运行Linux容器的工具，基于轻量级虚拟机实现。使用Swift编写，针对Apple Silicon优化，启动快、资源开销低。适合Mac开发者本地测试Linux环境、构建OCI镜像或运行容器化应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "excerpt": "Collection of publicly available IPTV channels from all over the world",
-      "meta": "TypeScript · ★ 118,005 · 🍴 6,300 · 📈 142 stars today",
+      "meta": "TypeScript · ★ 118,007 · 🍴 6,300 · 📈 142 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "收集全球公开可用的IPTV频道列表，涵盖数千个直播电视台，支持主流播放器（如VLC、MPV），可免费观看。"
+      "summary": "全球公开IPTV频道集合，提供数千个电视频道的播放链接（m3u格式）。涵盖新闻、体育、电影等类型，支持任意播放器或应用导入。适合希望在智能电视、手机或电脑上免费收看全球电视节目的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 225,959 · 🍴 20,081 · 📈 1,276 stars today",
+      "meta": "Shell · ★ 225,961 · 🍴 20,081 · 📈 1,276 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套代理技能框架与软件开发方法论，定义AI代理的能力边界和协作模式，强调实践有效性，适合构建复杂多代理系统。"
+      "summary": "智能体技能框架与软件开发方法论，定义可复用的AI代理能力模块。提供标准接口和编排策略，帮助开发者快速构建复杂多智能体系统。适用于设计自动化工作流、研发辅助代理等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "excerpt": "Desktop app to manage markdown knowledge bases",
-      "meta": "TypeScript · ★ 15,735 · 🍴 1,075 · 📈 369 stars today",
+      "meta": "TypeScript · ★ 15,744 · 🍴 1,075 · 📈 369 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台桌面应用，用于管理Markdown格式的知识库，支持分类、全文搜索、标签和实时预览，适合个人知识管理。"
+      "summary": "桌面端Markdown知识库管理应用，支持双向链接、标签和全文搜索。界面简洁，运行于本地，数据隐私安全。适合程序员、研究者用其替代Notion或Obsidian，管理笔记与技术文档。"
     },
     {
       "sourceId": "github-trending",
       "title": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "excerpt": "open-source healthcare ai",
-      "meta": "Python · ★ 3,179 · 🍴 304 · 📈 517 stars today",
+      "meta": "Python · ★ 3,182 · 🍴 304 · 📈 517 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源医疗人工智能项目，提供面向诊断辅助、医学影像分析等场景的预训练模型和工具链，推动医疗AI民主化。"
+      "summary": "开源医疗AI项目，提供预训练模型和工具，支持疾病诊断、医学影像分析等任务。基于深度学习，可本地部署或集成到医疗系统中。适合开发者、医疗机构快速构建智能诊疗辅助应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "excerpt": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "meta": "Python · ★ 8,624 · 🍴 1,288 · 📈 17 stars today",
+      "meta": "Python · ★ 8,628 · 🍴 1,289 · 📈 17 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为大语言模型设计的高速KV缓存层，通过优化缓存机制大幅降低推理延迟，提升对话、生成等场景的响应速度。"
+      "summary": "LLM推理加速层，通过缓存KV Key-Value对减少重复计算，显著降低延迟和成本。支持多种模型架构，兼容现有推理框架。适用于高并发服务、多轮对话场景，提升大模型部署效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "excerpt": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "meta": "★ 16,941 · 🍴 1,737 · 📈 823 stars today",
+      "meta": "★ 16,944 · 🍴 1,738 · 📈 823 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "项目管理技能市场，提供100多种代理技能、命令和插件，覆盖从需求发现到增长运营的完整产品生命周期，辅助PM自动化工作。"
+      "summary": "产品经理专属AI代理技能市场，包含100多种技能：需求分析、竞品调研、路线图规划等。每个技能封装为可调用的插件，可嵌入主流AI助手。帮助PM借助智能体加速产品从发现到增长的完整周期。"
     },
     {
       "sourceId": "github-trending",
       "title": "masterking32/MasterDnsVPN",
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "excerpt": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "meta": "Go · ★ 5,990 · 🍴 538 · 📈 401 stars today",
+      "meta": "Go · ★ 5,995 · 🍴 538 · 📈 401 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高级DNS隧道VPN工具，用于绕过网络审查，优化低开销ARQ、DNS解析器负载均衡，在高丢包环境下保持稳定与速度。"
+      "summary": "高级DNS隧道VPN工具，针对审查阻断优化。采用低开销ARQ、解析器负载均衡技术，对抗高丢包环境，速度优于DNSTT和SlipStream。适合在网络封锁严重的地区实现稳定翻墙。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 112,356 · 🍴 18,335 · 📈 1,040 stars today",
+      "meta": "Shell · ★ 112,370 · 🍴 18,335 · 📈 1,040 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "多智能体系统，包含前端开发、社交媒体运营、创意生成、事实核查等不同角色AI代理，每个代理具有个性与流程，可协同完成任务。"
+      "summary": "一站式AI代理生态系统，提供前端开发、Reddit运营、创意生成等多样化专家代理。每个代理有独立人格和工作流程，可协作完成复杂任务。适合希望自动化社交媒体、内容创作或客户支持的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "excerpt": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "meta": "C · ★ 134,317 · 🍴 8,063 · 📈 104 stars today",
+      "meta": "C · ★ 134,319 · 🍴 8,063 · 📈 104 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软官方Windows实用工具集，包含窗口布局管理、批量重命名、颜色选取器、快捷键指南等，提升日常操作效率与生产力。"
+      "summary": "微软开源Windows效率工具套件，包含FancyZones窗口布局、PowerRename批量重命名、颜色选择器等实用功能。面向Windows高级用户和开发者，显著提升桌面操作与工作流效率。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -369,7 +369,7 @@
       "sourceId": "linuxdo",
       "title": "「君の公益」 上架 claude-fable-5",
       "url": "https://linux.do/t/topic/2390544",
-      "excerpt": "「君の公益」 上架 claude-fable-5 地址 muyuan.do 不要再给我发私信或者艾特我，把我惹急了我就开三级登录了 公益站的本质是让没钱的佬友也能体验一下大模型，不得滥用！ 分发我一直有安排佬友去查，不要拿我的公益站去搞黄色，搞政治敏感，不要挑战我的底线 115 个帖子 - 99 位参与者 阅读完整话题",
+      "excerpt": "「君の公益」 上架 claude-fable-5 地址 muyuan.do 不要再给我发私信或者艾特我，把我惹急了我就开三级登录了 公益站的本质是让没钱的佬友也能体验一下大模型，不得滥用！ 分发我一直有安排佬友去查，不要拿我的公益站去搞黄色，搞政治敏感，不要挑战我的底线 119 个帖子 - 103 位参与者 阅读完整话题",
       "publishedAt": "2026-06-12T18:33:42.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -450,7 +450,7 @@
       "sourceId": "linuxdo",
       "title": "Any Router 余额 2800，每天签到 备着以后应急",
       "url": "https://linux.do/t/topic/2381441",
-      "excerpt": "这个应该不会跑路吧？ 160 个帖子 - 139 位参与者 阅读完整话题",
+      "excerpt": "这个应该不会跑路吧？ 162 个帖子 - 141 位参与者 阅读完整话题",
       "publishedAt": "2026-06-12T01:44:09.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -540,7 +540,7 @@
       "sourceId": "linuxdo",
       "title": "甲骨文arm免费额度砍半(成本计费系统已更新)",
       "url": "https://linux.do/t/topic/2387741",
-      "excerpt": "docs.oracle.com Always Free Resources Learn what Always Free resources are available to all Oracle Cloud Infrastructure users. 甲骨文云的免费账号继arm机器限速和韩国春川地区无法注册和开出arm机器后，现在直接将之前的永久4C24G的额度砍半，最多只能2C12G。 6.13更新，之前在oracle系统里显示的4c24g的实例成本分析也跟着文档更新有计费了，接下来就看15号一个月过半后有没有账单了。 162 个帖子 - 107 位参与者 阅读完整话题",
+      "excerpt": "docs.oracle.com Always Free Resources Learn what Always Free resources are available to all Oracle Cloud Infrastructure users. 甲骨文云的免费账号继arm机器限速和韩国春川地区无法注册和开出arm机器后，现在直接将之前的永久4C24G的额度砍半，最多只能2C12G。 6.13更新，之前在oracle系统里显示的4c24g的实例成本分析也跟着文档更新有计费了，接下来就看15号一个月过半后有没有账单了。 164 个帖子 - 108 位参与者 阅读完整话题",
       "publishedAt": "2026-06-12T09:53:20.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -589,7 +589,7 @@
       "publishedAt": "2026-06-12T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出三门Academy课程，帮助用户构建实用AI技能、创建可重复工作流程并在日常工作中应用智能体。"
+      "summary": "OpenAI推出三门学院课程，帮助用户构建实用AI技能、创建可重复工作流程，并在日常工作中应用智能代理。"
     },
     {
       "sourceId": "openai-news",
@@ -599,7 +599,7 @@
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Preply利用OpenAI推出AI生成课程摘要，提供个性化反馈和语言学习练习，结合AI与真人教师实现个性化学习。"
+      "summary": "语言学习平台Preply利用OpenAI推出AI生成课程摘要，提供个性化反馈和练习，结合AI与真人教师实现定制化学习。"
     },
     {
       "sourceId": "openai-news",
@@ -609,7 +609,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI支持欧盟AI内容透明度实践守则，推动溯源标准与工具，帮助用户识别AI生成内容。"
+      "summary": "OpenAI支持欧盟AI内容透明度行为准则，推进来源标准和工具，帮助用户识别AI生成内容。"
     },
     {
       "sourceId": "openai-news",
@@ -619,7 +619,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "西班牙BBVA银行将ChatGPT Enterprise推广至10万名员工，并与OpenAI合作，加速全球AI驱动的银行转型。"
+      "summary": "西班牙对外银行BBVA将ChatGPT企业版推广至10万名员工，并与OpenAI合作加速全球AI驱动的银行业转型。"
     },
     {
       "sourceId": "openai-news",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "天体物理学家Chi-kwan Chan使用OpenAI Codex构建黑洞模拟，协助研究极端物理现象并检验爱因斯坦广义相对论。"
+      "summary": "天体物理学家Chi-kwan Chan利用OpenAI Codex构建黑洞模拟，帮助研究极端物理并检验爱因斯坦广义相对论。"
     },
     {
       "sourceId": "openai-news",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI计划收购Ona，通过安全持久的云端环境扩展Codex，支持企业工作流中长时间运行的AI智能体。"
+      "summary": "OpenAI计划收购Ona，以扩展Codex的安全持久云环境，支持企业工作流中长期运行的AI代理。"
     },
     {
       "sourceId": "openai-news",
@@ -649,7 +649,7 @@
       "publishedAt": "2026-06-10T20:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI与Oracle Cloud合作，用户可利用现有云承诺访问OpenAI模型和Codex，实现企业级安全与治理下的AI部署。"
+      "summary": "用户可通过Oracle云承诺访问OpenAI模型和Codex，利用现有资源构建和部署AI，享受企业级安全与治理。"
     },
     {
       "sourceId": "openai-news",
@@ -866,7 +866,7 @@
       "publishedAt": "2026-06-10T16:24:11.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind发布DiffusionGemma，基于扩散模型的文本生成速度提升4倍。"
+      "summary": "Google DeepMind发布DiffusionGemma，文本生成速度提升4倍。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1137,7 +1137,7 @@
       "publishedAt": "2026-06-12T15:56:10.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "AI2推出olmo-eval评估工作台，旨在支持模型开发循环中的性能评估与迭代优化。"
+      "summary": "AllenAI发布olmo-eval评估工作台，用于模型开发循环中的评测环节，帮助开发者高效迭代模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1147,7 +1147,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "PyTorch性能分析系列第二部分，介绍从nn.Linear到融合MLP的优化方法与性能提升。"
+      "summary": "PyTorch性能分析系列第二部分，介绍从nn.Linear到融合MLP的优化方法。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1709,7 +1709,7 @@
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "OpenAI收购Ona公司；Anthropic政策反转；小米发布MiMo代码，总结当日AI领域重要动态。"
+      "summary": "OpenAI收购Ona公司；Anthropic政策反转；小米发布MiMo代码项目。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1719,7 +1719,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Dario Amodei发布政策倡议；Google推出DiffusionGemma实现4倍速文本生成；WhatsApp计划解封机器人。"
+      "summary": "Anthropic CEO Dario Amodei发布政策倡议；Google推出DiffusionGemma加速文本生成；WhatsApp计划解除对机器人的限制。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2161,7 +2161,7 @@
       "publishedAt": "2026-06-12T05:34:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "当期AINews聚焦Peter Steinberger、Boris Cherny和Andrej Karpathy提出的Loopcraft概念，探讨堆叠循环的艺术。"
+      "summary": "Peter Steinberger、Boris Cherny和Andrej Karpathy提出「Loopcraft」概念，探讨循环堆叠的艺术。"
     },
     {
       "sourceId": "latent-space",
@@ -2171,7 +2171,7 @@
       "publishedAt": "2026-06-11T03:14:26.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "本期内参讨论开放模型、模型实验室与智能体实验室的对比，以及不可训练的内容，引用Sarah Guo的观点。"
+      "summary": "Sarah Guo探讨开放模型、模型实验室与代理实验室的对比，以及不可训练的内容。"
     },
     {
       "sourceId": "latent-space",
@@ -2343,7 +2343,7 @@
       "publishedAt": "2026-06-11T11:00:45.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "Google DeepMind资助研究数百万AI智能体交互的潜在风险。AGI安全与对齐研究总监Rohin Shah指出大量智能体进入市场可能带来安全隐患。"
+      "summary": "Google DeepMind资助研究数百万AI代理在线交互的潜在风险。AGI安全与对齐研究负责人Rohin Shah表示，大众市场代理的到来可能带来危险。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2435,7 +2435,7 @@
       "category": "tech",
       "meta": "@aiedge_ · 69.5K 粉丝 · 700.1K 阅 · 506 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Anthropic 发布 Fable 5（Mythos）官方提示工程指南，博主翻译并指出该指南藏在 API 文档中，多数人错过。强调掌握提示技巧对发挥最强模型能力至关重要。"
+      "summary": "Anthropic 发布 Fable 5 (Mythos) 官方提示指南，博主翻译分享。该指南藏在 API 文档中，多数人不会读，实为提示最强 AI 模型的权威手册。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2446,7 +2446,7 @@
       "category": "tech",
       "meta": "@dhaber · 50.0K 粉丝 · 497.3K 阅 · 500 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI 正改变工作方式：默认录制多数工作讨论，成为公司内部禁忌话题。揭示透明化与隐私之间的新权衡，以及这对协作和信任的潜在影响。"
+      "summary": "AI 改变工作方式的一大表现：大多数工作讨论默认被录制，成为公司内部禁忌话题。探讨记录文化对隐私和协作的影响。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2457,7 +2457,7 @@
       "category": "tech",
       "meta": "@Recursive_SI · 6.3K 粉丝 · 465.1K 阅 · 516 赞 · 71 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Recursive 公布自动化 AI 研究系统早期成果，涵盖模型训练和 GPU 内核基准测试。展示三个实验方向，朝自主科研迈出第一步。"
+      "summary": "Recursive 发布自动化 AI 研究系统早期结果，涵盖模型训练和 GPU 内核基准测试。展示了三个以上实验的初步数据，迈向自动化 AI 研究第一步。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2468,7 +2468,7 @@
       "category": "tech",
       "meta": "@0xCodez · 6.4K 粉丝 · 371.8K 阅 · 515 赞 · 56 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "指出 90% 用户从未运行过自改进代理系统。提供 14 步教程，用 Claude Fable 5 构建含循环、动态工作流和例程的代理，突破简单问答模式。"
+      "summary": "指出 9/10 用户把 Fable 5 当大上下文版 Sonnet 用，从未运行真正自主 agent。提供 14 步构建自改进系统，包含循环、动态工作流和例行程序。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2479,7 +2479,7 @@
       "category": "tech",
       "meta": "@saranormous · 143.5K 粉丝 · 194.8K 阅 · 614 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "反思 2026 年中投资者对 AI 的悲观情绪：认为只剩 Anthropic 和 Nvidia 可投。作者坚持存在其他可投资方向，批判这种「不可投资」的绝望心态。"
+      "summary": "2026 年中投资者 AI 精神分裂：认为除了 Anthropic 和 Nvidia 无物可投。作者不认同，坚信 AI 领域仍有大量可投方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2490,7 +2490,7 @@
       "category": "tech",
       "meta": "@0x_rody · 1.7K 粉丝 · 193.2K 阅 · 513 赞 · 72 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "解决 Claude Code 中代码修复循环痛点：提供自改进循环设置，让 Claude 自动根据失败测试自我修正，减少人工来回传话，提升开发效率。"
+      "summary": "针对 Claude Code 写代码后测试失败的循环修复痛点，提供自改进循环具体设置，让 agent 自动纠错，减少人工传话。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2501,7 +2501,7 @@
       "category": "tech",
       "meta": "@BrainsAndTennis · 10.5K 粉丝 · 187.4K 阅 · 539 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "讨论构建优秀垂直领域代理的关键：过去一年标准化了基础（模型循环），但还需超越基础，从用户体验出发设计，才能让客户主动选择。"
+      "summary": "探讨如何构建垂直领域真正好用的 agent。过去一年基础已标准化（围绕模型的 while 循环），深入讨论如何让客户选择它而非通用方案。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2512,7 +2512,7 @@
       "category": "tech",
       "meta": "@TheAhmadOsman · 61.0K 粉丝 · 74.9K 阅 · 507 赞 · 98 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分析 Anthropic 对开源 AI 的真实立场：表面是安全实验室，实际模式显示其正在打压开源社区。批评其看似谨慎实为封闭的策略。"
+      "summary": "分析 Anthropic 对开源 AI 的表面（谨慎安全）与实际（发起战争）矛盾，揭示其公开形象与行动的不一致。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2523,7 +2523,7 @@
       "category": "tech",
       "meta": "@coinbase · 7.0M 粉丝 · 72.8K 阅 · 500 赞 · 62 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Coinbase 推出 agent 服务，通过 MCP 协议让 AI 代理直接管理账户交易、支付和工作流，用户可设定限额，实现自动化金融操作。"
+      "summary": "Coinbase 推出 Agent 功能：AI agent 直连 Coinbase 账户进行交易、支付、执行工作流，用户控制限额，以 MCP 协议形式可用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2534,7 +2534,7 @@
       "category": "tech",
       "meta": "@RayDalio · 2.2M 粉丝 · 72.6K 阅 · 515 赞 · 93 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Ray Dalio 分享原则性思考与 AI 结合的必要性：基于其构建计算机投资系统的经验，认为人机智能融合需要清晰的原则框架才能有效决策。"
+      "summary": "Ray Dalio 讨论人机智能融合时代的最佳高效智能方法。他长期构建计算机化投资决策，强调原则性思维与 AI 必须结合。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2545,7 +2545,7 @@
       "category": "tech",
       "meta": "@ORACLEAIFND · 31.9K 粉丝 · 63.6K 阅 · 1.5K 赞 · 563 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "ORACLE 宣布其官方 AI 代理在 Polymarket 上自动交易。2026 年自主 AI 代理已成预测市场最有效策略，占 Polymarket 超 30% 活动量。"
+      "summary": "ORACLE 官方 AI 代理在 Polymarket 上交易。2026 年自主 AI 代理成预测市场最有效策略，Polymarket 超 30% 活动来自算法和 AI 钱包。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2556,7 +2556,7 @@
       "category": "tech",
       "meta": "@OracleTrdading · 39.7K 粉丝 · 61.5K 阅 · 1.5K 赞 · 577 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "ORACLE 宣布其官方 AI 代理在 Polymarket 上自动交易。2026 年自主 AI 代理已成预测市场最有效策略，占 Polymarket 超 30% 活动量。"
+      "summary": "ORACLE 官方 AI 代理在 Polymarket 上交易。2026 年自主 AI 代理成预测市场最有效策略，Polymarket 超 30% 活动来自算法和 AI 钱包。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2567,7 +2567,7 @@
       "category": "tech",
       "meta": "@OracleTrdade · 41.7K 粉丝 · 60.6K 阅 · 1.5K 赞 · 560 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "ORACLE 宣布其官方 AI 代理在 Polymarket 上自动交易。2026 年自主 AI 代理已成预测市场最有效策略，占 Polymarket 超 30% 活动量。"
+      "summary": "ORACLE 官方 AI 代理在 Polymarket 上交易。2026 年自主 AI 代理成预测市场最有效策略，Polymarket 超 30% 活动来自算法和 AI 钱包。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2578,7 +2578,7 @@
       "category": "tech",
       "meta": "@OracleMarkett · 45.0K 粉丝 · 60.1K 阅 · 1.5K 赞 · 568 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "ORACLE 宣布其官方 AI 代理在 Polymarket 上自动交易。2026 年自主 AI 代理已成预测市场最有效策略，占 Polymarket 超 30% 活动量。"
+      "summary": "ORACLE 官方 AI 代理在 Polymarket 上交易。2026 年自主 AI 代理成预测市场最有效策略，Polymarket 超 30% 活动来自算法和 AI 钱包。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2589,7 +2589,7 @@
       "category": "tech",
       "meta": "@elvissun · 45.0K 粉丝 · 42.0K 阅 · 502 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "纠正 99% 人对 /goal 和循环的错误使用：真正的自主代理不是一次设定任务后等待，而是结合损失函数和精细控制。提供完整指南，30 小时即可提炼产品。"
+      "summary": "99% 的人错误使用 /goal 和循环。顶级 agent 工程师用不同方法。提供完整方案：用一条提示在 30 小时内提炼产品，包含损失函数等关键技巧。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2600,7 +2600,26 @@
       "category": "tech",
       "meta": "@leerob · 258.6K 粉丝 · 36.8K 阅 · 586 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Cursor 团队分享递归代理系统实践：运行数千代理辅助训练 Composer 新版本。代理遇到问题时自动通过 Slack 或分页通知团队，实现人机协作闭环。"
+      "summary": "Cursor 运行数千 agent 训练下一代 Composer。agent 执行研究任务，遇失败或问题自动通过 Slack 或分页通知人类，展示递归 agent 系统实际应用。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "From London to Sydney, Traders Ready to Watch SpaceX’s Debut",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/from-sydney-to-london-traders-ready-to-watch-spacex-s-debut",
+      "excerpt": "Investors and retail traders from across the US and around the world were glued to their screens on Friday as Elon Musk’s SpaceX started trading in the stock market after the biggest initial public offering in Wall Street history.",
+      "publishedAt": "2026-06-12T13:01:16.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "CFTC Considers Blocking CME’s 24/7 Oil Contract Bid",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/cftc-considers-blocking-cme-s-24-7-oil-contract-bid",
+      "excerpt": "The US Commodity Futures Trading Commission is considering whether to block CME Group Inc.’s bid to launch a round-the-clock oil contract, heightening tensions between the market stalwart and its regulator.",
+      "publishedAt": "2026-06-12T22:51:46.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国商品期货交易委员会（CFTC）考虑阻止芝商所（CME）推出全天候原油合同，此举加剧了市场巨头与监管机构之间的紧张关系。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2610,7 +2629,7 @@
       "publishedAt": "2026-06-12T22:21:48.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "前美国参议员、两届NBA冠军比尔·布拉德利称，杰伦·布伦森在自由市场放弃数百万美元，为尼克斯提供更多薪资空间以组建更强阵容，这一牺牲激励了纽约球迷。"
+      "summary": "前参议员、两届NBA冠军比尔·布拉德利表示，纽约尼克斯球员杰伦·布伦森在自由球员市场放弃数百万美元薪资，为球队腾出薪资空间打造更强阵容，这一牺牲带来了团队成功并激发了纽约的乐观情绪。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2620,7 +2639,7 @@
       "publishedAt": "2026-06-12T22:16:11.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "SpaceX于6月12日上市，创史上最大IPO，募资750亿美元，首日市值约2.2万亿美元，成为全球市值最高公司之一。"
+      "summary": "SpaceX于6月12日上市，创下史上最大IPO，融资750亿美元，首日市值约2.2万亿美元，创始人埃隆·马斯克一跃成为全球首位万亿富翁。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2630,7 +2649,7 @@
       "publishedAt": "2026-06-12T22:13:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "太空基金会CEO希瑟·普林格尔表示，SpaceX的750亿美元IPO是太空产业成熟的重要里程碑，将带动行业投资增长和市场乐观情绪。"
+      "summary": "太空基金会CEO希瑟·普林格尔表示，SpaceX 750亿美元IPO是太空行业成熟的重要里程碑，带动了更广泛航天领域投资热潮和市场乐观情绪。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2649,7 +2668,7 @@
       "publishedAt": "2026-06-12T21:15:50.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "纽约市审计长马克·莱文质疑SpaceX被快速纳入MSCI和FTSE Russell等指数，认为其放弃了传统的上市时间要求和盈利记录等标准。"
+      "summary": "纽约市审计长马克·莱文对SpaceX被快速纳入MSCI全球标准指数和富时罗素等主要指数表示担忧，认为这放弃了传统的上市时间要求和盈利记录等标准。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2659,7 +2678,7 @@
       "publishedAt": "2026-06-12T21:04:57.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "布隆伯格的丽莎·马特奥与斯嘉丽·傅和汤姆·基恩在节目中前瞻零售销售数据、美联储会议及NBA总决赛等本周焦点。"
+      "summary": "彭博社的丽莎·马特奥与斯嘉丽·傅、汤姆·基恩在节目「Bloomberg Money」中前瞻零售销售数据、美联储会议及NBA总决赛等热点。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2669,7 +2688,7 @@
       "publishedAt": "2026-06-12T21:15:13.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "EQT集团主席让-埃里克·萨拉塔与巴里对话，分享其在亚洲私募股权投资的经验，并探讨跨文化投资的必要素质，包括在日本和香港的感悟。"
+      "summary": "EQT集团主席让-埃里克·萨拉塔在节目中分享其在亚洲私募股权投资的经历，以及在不同文化背景下成为优秀投资者的必要条件，涵盖日本和香港的实践心得。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2679,7 +2698,7 @@
       "publishedAt": "2026-06-12T21:13:42.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "华尔街交易公司Susquehanna创始人杰夫·亚斯是尼克斯球迷，但尼克斯在NBA总决赛第四场逆转取胜却导致其体育交易部门创纪录亏损。"
+      "summary": "纽约尼克斯在NBA总决赛第四场完成史诗逆转获胜，导致华尔街交易公司Susquehanna的体育交易员创下历史最大单日亏损。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2706,8 +2725,7 @@
       "excerpt": "Rapper & Co-Founder of Big3 league Ice Cube, discusses the league preparing to go public after a $290 million valuation. He discusses the early days of the league, how the fans have really embraced it, and what it means to be the first publicly traded sports league. He speaks with Romaine Bostick & ",
       "publishedAt": "2026-06-12T20:55:24.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "说唱歌手兼BIG3联赛联合创始人Ice Cube表示，该联赛在估值2.9亿美元后准备上市，将成为首个公开交易的体育联盟。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2716,8 +2734,7 @@
       "excerpt": "Michael K. Wirth, Chairman of the Board & CEO, Chevron Corporation discusses investment, scale and long-term strategy with Bloomberg’s Annmarie Hordern at the Bloomberg Energy Security Executive Briefing 2026 in Houston. (Source: Bloomberg)",
       "publishedAt": "2026-06-12T20:51:33.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "雪佛龙董事长兼CEO迈克尔·沃思在休斯顿的布隆伯格能源安全高管简报会上讨论投资、规模及长期战略，回应能源市场波动。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2735,8 +2752,7 @@
       "excerpt": "Rebecca Babin, Managing Director & Senior Energy Trader, CIBC Private Wealth and Dan Pickering, Founder & Chief Investment Officer, Pickering Energy Partners discuss volatility, diversification and returns across energy markets with Bloomberg’s Julie Fine at the Bloomberg Energy Security Executive B",
       "publishedAt": "2026-06-12T20:49:04.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "CIBC私人财富高级能源交易员丽贝卡·巴宾与皮克林能源合伙人创始人丹·皮克林在布隆伯格能源会议上讨论能源市场的波动、多样化及回报。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2780,15 +2796,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-12/all-eyes-on-spacex-closing-bell-video",
       "excerpt": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
       "publishedAt": "2026-06-12T20:25:49.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "From London to Sydney, Traders Ready to Watch SpaceX’s Debut",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-12/from-sydney-to-london-traders-ready-to-watch-spacex-s-debut",
-      "excerpt": "Investors and retail traders from across the US and around the world were glued to their screens on Friday as Elon Musk’s SpaceX started trading in the stock market after the biggest initial public offering in Wall Street history.",
-      "publishedAt": "2026-06-12T13:01:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2870,15 +2877,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-12/biggest-shipment-of-us-fuel-to-cuba-since-1960-is-off-as-blacklist-expands",
       "excerpt": "A Florida oil trading house that was set to dispatch the largest US fuel shipment to Cuba since 1960 is shelving plans after the Trump administration ramped up pressure on the island.",
       "publishedAt": "2026-06-12T20:01:31.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Musk Aiming For 'Holy Grail of Space Flight' in Reusability, Says Loren Grush",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-12/musk-aiming-for-holy-grail-of-space-flight-grush-video",
-      "excerpt": "Bloomberg space reporter Loren Grush said that Elon Musk is still focused on Space even as other parts of the company generate more revenue for Musk as SpaceX's IPO makes him the world's richest man. Grush said that Musk is still committed to the starship rocket and trying to reach the 'holy grail o",
-      "publishedAt": "2026-06-12T20:01:17.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3064,13 +3062,33 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "Paramount’s $111bn takeover of Warner Bros wins US antitrust approval",
+      "url": "https://www.ft.com/content/fd52360a-20f7-4000-851f-2d2421e17fb7",
+      "excerpt": "Deal is critical to David Ellison’s ambition to create new media empire",
+      "publishedAt": "2026-06-12T21:53:31.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "派拉蒙以1110亿美元收购华纳兄弟的交易获得美国反垄断批准，该交易对大卫·埃里森打造新媒体帝国的雄心至关重要。"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Citigroup CEO Jane Fraser becomes dame in King’s birthday honours list",
+      "url": "https://www.ft.com/content/5aa94f69-1a48-43bf-b241-9adc77cbd07d",
+      "excerpt": "Barclays and LSE Group bosses miss out despite early-stage approval",
+      "publishedAt": "2026-06-12T21:30:08.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "花旗集团CEO简·弗雷泽在国王生日授勋名单中被授予女爵士称号；巴克莱和伦敦证券交易所集团高管虽获早期批准但未能入选。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "SpaceX’s surge on debut makes Musk world’s first trillionaire",
       "url": "https://www.ft.com/content/16387550-4d13-4d2d-b487-c4f6f4a5e9c8",
       "excerpt": "Rocket and AI group’s shares jumped by nearly a fifth after raising $75bn in record initial public offering",
       "publishedAt": "2026-06-12T21:09:31.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "SpaceX股票上市首日上涨近20%，募资750亿美元创纪录，使其创始人马斯克成为全球首位万亿富翁。"
+      "summary": "SpaceX上市首日股价上涨近五分之一，此前通过创纪录的IPO融资750亿美元，公司创始人马斯克由此成为全球首位万亿富翁。"
     },
     {
       "sourceId": "ft-companies",
@@ -3271,24 +3289,6 @@
       "source": "Financial Times"
     },
     {
-      "sourceId": "ft-companies",
-      "title": "Ireland champions rapid EU electrification to power data centre surge",
-      "url": "https://www.ft.com/content/70b2c364-0f56-410e-bf67-aae2f5dea67d",
-      "excerpt": "Also in this newsletter: Revolt against deficit spending to temper energy prices",
-      "publishedAt": "2026-06-12T05:09:21.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
-      "sourceId": "ft-companies",
-      "title": "Renault joins VW and Stellantis to push ‘Made in Europe’ plan",
-      "url": "https://www.ft.com/content/33303858-3fb2-416d-85c8-e4b9cdb1bbad",
-      "excerpt": "Car industry is split over how Brussels can protect manufacturing against Chinese EV onslaught",
-      "publishedAt": "2026-06-12T05:00:09.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
       "sourceId": "bbc-business",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
@@ -3296,7 +3296,7 @@
       "publishedAt": "2026-06-12T22:00:52.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "SpaceX在纳斯达克上市，市值达2.2万亿美元，创始人埃隆·马斯克以1.11万亿美元身家成为全球首位万亿富翁。"
+      "summary": "SpaceX在纳斯达克上市后市值达2.2万亿美元，埃隆·马斯克净资产升至1.11万亿美元，成为全球首位万亿富翁。"
     },
     {
       "sourceId": "bbc-business",
@@ -3837,7 +3837,7 @@
       "publishedAt": "2026-06-12T21:04:05.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "伊朗表示即将敲定的停火协议将导致霍尔木兹海峡重新开放。美国、伊朗及调解方巴基斯坦均称协议接近完成。"
+      "summary": "伊朗表示，结束冲突的协议即将完成，将导致霍尔木兹海峡重新开放。美国、伊朗和调停方巴基斯坦称协议接近敲定。"
     },
     {
       "sourceId": "bbc-world",
@@ -4184,18 +4184,18 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "NDIS changes ‘retrogressive’ and out of step with review, MPs say",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/13/ndis-changes-retrogressive-and-out-of-step-with-review-mps-say",
-      "excerpt": "Report by Labor-led joint human rights committee says cuts to the $50bn scheme could limit support for those in need Get our breaking news email, free app or daily news podcast Sweeping changes to the NDIS appear “retrogressive” and lack alignment with a landmark independent review to improve the $5",
+      "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
+      "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
+      "excerpt": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’ Antarctica’s west coast is missing an area of winter sea ice the size of France, sparking concerns for threatened penguins other marine life and global sea levels",
       "publishedAt": "2026-06-12T15:00:48.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
-      "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
-      "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
-      "excerpt": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’ Antarctica’s west coast is missing an area of winter sea ice the size of France, sparking concerns for threatened penguins other marine life and global sea levels",
+      "title": "NDIS changes ‘retrogressive’ and out of step with review, MPs say",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/13/ndis-changes-retrogressive-and-out-of-step-with-review-mps-say",
+      "excerpt": "Report by Labor-led joint human rights committee says cuts to the $50bn scheme could limit support for those in need Get our breaking news email, free app or daily news podcast Sweeping changes to the NDIS appear “retrogressive” and lack alignment with a landmark independent review to improve the $5",
       "publishedAt": "2026-06-12T15:00:48.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -4217,6 +4217,16 @@
       "publishedAt": "2026-06-12T07:06:00.000Z",
       "category": "politics",
       "source": "The Guardian"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Palantir loses legal challenge to force Swiss magazine to publish rejoinders",
+      "url": "https://www.theguardian.com/technology/2026/jun/13/palantir-loses-legal-challenge-to-force-swiss-magazine-to-publish-rejoinders",
+      "excerpt": "Data analytics company loses on 22 out of 23 counts in lawsuit disputing how Swiss government rejected firm’s services The US technology company Palantir has lost a legal challenge to force a Swiss independent magazine to publish its responses to articles about how the Swiss government rejected the ",
+      "publishedAt": "2026-06-12T23:12:45.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "美国数据分析公司Palantir在瑞士法院败诉，23项指控中22项被驳回，涉及瑞士政府拒绝其服务的争议。"
     },
     {
       "sourceId": "guardian-world",
@@ -4256,22 +4266,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland, data shows",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/12/ireland-asylum-seekers-northern-land-border",
-      "excerpt": "Figures suggest common travel area being used in both directions, but particularly UK to Ireland Up to 90% of asylum seekers in Ireland may have entered the country via the Northern Ireland land border in the last three years, figures suggest. Irish government data shows the common travel area (CTA)",
-      "publishedAt": "2026-06-12T04:00:36.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
       "title": "Middle East crisis live: Iran says Lebanon is part of deal with US but nuclear programme is not",
       "url": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
       "excerpt": "Iran’s foreign minister says end to war on all fronts includes Lebanon but Tehran won’t give up nuclear programme; US president has reportedly talked to Netanyahu Iran’s official Islamic Republic News Agency (IRNA) has cautioned against media speculation about a potential memorandum of understanding",
       "publishedAt": "2026-06-12T22:31:29.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "伊朗外长表示结束所有战线战争包括黎巴嫩，但德黑兰不会放弃核计划；伊朗官方通讯社警告媒体对潜在协议的猜测。"
+      "summary": "伊朗外长表示与美国的停火协议包括黎巴嫩，但伊朗不会放弃核计划；总统特朗普据悉已与内塔尼亚胡通话。"
     },
     {
       "sourceId": "guardian-world",
@@ -4317,7 +4318,7 @@
       "publishedAt": "2026-06-12T22:43:34.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国与伊朗官员表示停火协议细节尚在敲定，特朗普与伊朗外长均称接近达成协议，但此前最后时刻破裂先例令人担忧。"
+      "summary": "美国与伊朗官员表示停火协议细节正在敲定，特朗普总统与伊朗外长均称接近达成协议，但此前潜在协议在最后一刻破裂。"
     },
     {
       "sourceId": "nyt-world",
@@ -4342,7 +4343,7 @@
       "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
       "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
       "excerpt": "The opening game in Mexico City took place amid weeks of protests from groups including teachers’ unions complaining about pay and pensions.",
-      "publishedAt": "2026-06-12T23:01:01.000Z",
+      "publishedAt": "2026-06-12T23:03:21.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4444,7 +4445,7 @@
       "publishedAt": "2026-06-12T22:56:10.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "阿富汗民众举行罕见公开抗议，反对塔利班规定。联合国称对逮捕数十名女性“深感担忧”，抗议活动中两人死亡。"
+      "summary": "阿富汗妇女举行罕见公开抗议反对塔利班规定，联合国深表关切，报道称两名抗议者被杀，数十名妇女被捕。"
     },
     {
       "sourceId": "nyt-world",
@@ -4454,7 +4455,7 @@
       "publishedAt": "2026-06-12T22:43:33.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国高级官员表示美伊双方“尚未完全到达终点线”，但停火协议接近达成。"
+      "summary": "美国高级官员表示与伊朗的停火协议非常接近，但尚未到达终点线。"
     },
     {
       "sourceId": "nyt-world",
@@ -4464,7 +4465,7 @@
       "publishedAt": "2026-06-12T21:00:06.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "西澳大利亚州数月来鼠患严重，老鼠出现在茶壶、车轮下甚至床上。一个城镇可能即将结束鼠灾。"
+      "summary": "西澳大利亚州正遭受鼠患，数月来老鼠出现在茶壶、轮胎下甚至床上，一个城镇的鼠患可能即将结束。"
     },
     {
       "sourceId": "nyt-world",
@@ -4528,7 +4529,7 @@
       "publishedAt": "2026-06-12T20:47:28.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "大卫·霍克尼利用iPhone、传真、宝丽来等科技手段创作艺术，探索不同于绘画的新形式。"
+      "summary": "艺术家大卫·霍克尼利用iPhone、传真机、宝丽来和复印机等科技工具进行创作，探索与传统绘画截然不同的表现形式。"
     },
     {
       "sourceId": "nyt-world",
@@ -4538,7 +4539,7 @@
       "publishedAt": "2026-06-12T22:41:05.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "该条目为伊朗战争实时更新页面，标题为“最新消息”，暂无具体内容。"
+      "summary": "伊朗战争最新动态：目前暂无具体细节公布。"
     },
     {
       "sourceId": "nyt-world",
@@ -4548,7 +4549,7 @@
       "publishedAt": "2026-06-12T22:27:14.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "中国以间谍罪逮捕美国学者U Min Zin，他曾在加州大学伯克利分校读研并领导缅甸研究小组。此事发生在特朗普与习近平会晤后不久。"
+      "summary": "美国学者吴敏津（U Min Zin）因间谍指控在中国被捕，他曾在加州大学伯克利分校学习并指导缅甸研究小组，被捕发生在特朗普与习近平会晤后不久。"
     },
     {
       "sourceId": "nyt-world",
@@ -4972,7 +4973,7 @@
       "publishedAt": "2026-06-12T21:38:03.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "一位母亲在美国起诉OpenAI，指控其未能干预女儿与ChatGPT对话中的警告信号，导致女儿死亡。"
+      "summary": "一位母亲在美国起诉OpenAI，指控其未能干预女儿与ChatGPT对话中的警示信号，导致女儿死亡。"
     },
     {
       "sourceId": "aljazeera",
@@ -4982,7 +4983,7 @@
       "publishedAt": "2026-06-12T21:32:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "法官维持原判，要求将特朗普的名字从肯尼迪中心移除。特朗普曾试图重塑首都形象和机构。"
+      "summary": "美国法官维持移除特朗普名字于肯尼迪中心的命令，总统曾试图重塑首都形象与机构。"
     },
     {
       "sourceId": "aljazeera",
@@ -4992,7 +4993,7 @@
       "publishedAt": "2026-06-12T20:58:41.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "路透社报道阿联酋同意解冻伊朗数十亿美元资金，但阿布扎比迅速否认。"
+      "summary": "据路透社报道，阿联酋同意解冻数十亿伊朗资金，但阿布扎比迅速否认。此动向与美国推动停火有关。"
     },
     {
       "sourceId": "aljazeera",
@@ -5002,7 +5003,7 @@
       "publishedAt": "2026-06-12T20:58:19.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "匈牙利新政府取消否决权后，欧盟同意启动乌克兰和摩尔多瓦的入盟谈判进程。"
+      "summary": "欧盟同意启动乌克兰和摩尔多瓦的入盟进程，匈牙利新政府取消否决权后，基辅的入盟申请取得进展。"
     },
     {
       "sourceId": "aljazeera",
@@ -5020,8 +5021,7 @@
       "excerpt": "After cancelling planned strikes on Iran, Trump has said an agreement to end the war will be finalised soon.",
       "publishedAt": "2026-06-12T20:44:04.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "特朗普取消对伊朗的打击计划后称结束战争的协议将很快达成，但能否兑现仍存疑。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
