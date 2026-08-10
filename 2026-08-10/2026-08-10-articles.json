@@ -6,160 +6,160 @@
       "title": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "excerpt": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "meta": "Python · ★ 4,029 · 🍴 480 · 📈 967 stars today",
+      "meta": "Python · ★ 4,050 · 🍴 481 · 📈 967 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向可审计AI系统的图原生基础设施，以知识图谱为核心组织和管理AI上下文，使模型决策具备可追溯性和可解释性。适合对合规要求高的企业级AI应用，如金融、医疗等领域。技术栈围绕图数据库与向量检索展开。"
+      "summary": "Semantica 是面向上下文与可问责 AI 系统的图原生基础设施，将知识图谱与 AI 上下文管理结合，提供可追溯、可验证的决策依据。适合需要高可靠性 AI 的企业级场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 141,750 · 🍴 23,131 · 📈 1,352 stars today",
+      "meta": "Shell · ★ 141,766 · 🍴 23,132 · 📈 1,352 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个集成多类专业AI代理的完整智能体团队，从前端开发到Reddit社区运营，每个代理都具备独立人格、工作流与专长。可部署于内容营销、社区管理和自动化开发等场景，帮助企业以Agent集群完成复杂任务。"
+      "summary": "agency-agents 提供一整套 AI 代理团队，包含前端开发、社区运营、创意生成等不同角色的专家代理，每个代理拥有独立人格与工作流程，可协同完成复杂任务，让个人拥有完整数字 agency。"
     },
     {
       "sourceId": "github-trending",
       "title": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "excerpt": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "meta": "Python · ★ 60,962 · 🍴 12,002 · 📈 215 stars today",
+      "meta": "Python · ★ 60,968 · 🍴 12,005 · 📈 215 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "跨平台社交媒体爬虫，支持小红书、抖音、快手、B站、微博、百度贴吧、知乎等主流内容平台的笔记、视频、帖子、问答及评论抓取。用于社媒数据分析和舆情监测，适合研究者、运营人员与数据工程师。基于Python实现。"
+      "summary": "MediaCrawler 是一个社交媒体数据采集工具，支持小红书、抖音、快手、B 站、微博、百度贴吧、知乎等多平台笔记、视频、帖子及评论爬取，适用于内容分析、舆情监测与数据研究。技术基于 Python 异步抓取。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 85,709 · 🍴 9,225 · 📈 659 stars today",
+      "meta": "JavaScript · ★ 85,720 · 🍴 9,226 · 📈 659 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为AI编码代理提供的生产级工程技能集合，涵盖代码审查、测试、调试等最佳实践，帮助AI生成更可靠、可维护的代码。适合团队在真实项目中引入AI辅助编程，提升研发效率与代码质量。"
+      "summary": "agent-skills 为 AI 编程代理提供生产级工程技能集合，涵盖代码审查、测试、重构、性能优化等最佳实践，帮助代理生成更可靠、可维护的代码。适合使用 AI 辅助开发的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "excerpt": "The open-source app everyone uses to manage agents at work",
-      "meta": "TypeScript · ★ 76,423 · 🍴 14,200 · 📈 167 stars today",
+      "meta": "TypeScript · ★ 76,440 · 🍴 14,202 · 📈 167 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的企业级AI代理管理应用，用于在工作场景中统一管理、调度和监控多个AI代理。提供界面与协作能力，帮助团队跟踪代理任务、分配工作并确保运行可控，适合已部署多Agent的组织使用。"
+      "summary": "Paperclip 是开源 AI 代理管理平台，用于在工作环境中集中管理、调度和监控多个智能代理，提供统一界面与权限控制，适合团队协作中多代理工作流管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "excerpt": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "meta": "TypeScript · ★ 12,965 · 🍴 1,316 · 📈 2,655 stars today",
+      "meta": "TypeScript · ★ 13,007 · 🍴 1,319 · 📈 2,655 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向编码工作流和长期自主任务的自我改进RLM代理，能在运行过程中持续学习和优化自身策略，完成自动化编程、后台长时任务等复杂操作。适合开发者构建高度自治的AI工作流系统。"
+      "summary": "prime-agent 是一个自我改进的强化学习代理（RLM），面向编码工作流和长时间自主任务。它能在执行过程中不断优化策略，处理复杂编程任务与自动化流程，适合需要长期运行、自适应调整的 AI 编程助手场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "excerpt": "Truly independent web browser",
-      "meta": "C++ · ★ 65,239 · 🍴 3,117 · 📈 106 stars today",
+      "meta": "C++ · ★ 65,241 · 🍴 3,117 · 📈 106 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "真正独立的开源网页浏览器，从零构建，不依赖Chrome或Firefox等现有引擎代码，致力于标准兼容与隐私友好。适合关注浏览器技术、Web标准研究和数据安全的开发者和爱好者。"
+      "summary": "Ladybird 是一款从零构建、不依赖主流浏览器引擎的独立 Web 浏览器，旨在提供纯净、可审计的浏览体验。它由非营利组织维护，注重标准兼容与隐私保护，适合对软件独立性有要求的开发者与用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "excerpt": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "meta": "Rust · ★ 89,335 · 🍴 11,888 · 📈 186 stars today",
+      "meta": "Rust · ★ 89,349 · 🍴 11,889 · 📈 186 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用普通商用WiFi信号实现实时空间感知、生命体征监测和存在检测，不依赖摄像头像素。通过无线信号处理提取环境信息，适用于安防监控、智慧养老、智能家居等对隐私要求高的场景。"
+      "summary": "RuView 利用普通 WiFi 信号实现实时空间感知、生命体征监测与存在检测，无需任何摄像头。它通过分析无线信号变化来识别位置和状态，可用于隐私敏感的安防、老人监护和智能家居场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "danielmiessler/LifeOS",
       "url": "https://github.com/danielmiessler/LifeOS",
       "excerpt": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "meta": "TypeScript · ★ 17,859 · 🍴 2,363 · 📈 357 stars today",
+      "meta": "TypeScript · ★ 17,872 · 🍴 2,363 · 📈 357 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "通用爬山式AI框架，通过目标状态建模和逐步迭代优化，帮助用户在生活与工作中从当前状态逼近理想状态。适用于个人目标管理、习惯养成和职业规划等自我提升场景。"
+      "summary": "LifeOS 是一个通用爬山式 AI 辅助框架，帮助用户从当前状态逐步逼近理想状态。它通过定义目标、量化差距并迭代优化，适用于个人成长、职业规划与项目管理，让 AI 引导决策和行动。"
     },
     {
       "sourceId": "github-trending",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "excerpt": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "meta": "TypeScript · ★ 164,999 · 🍴 9,283 · 📈 815 stars today",
+      "meta": "TypeScript · ★ 165,017 · 🍴 9,284 · 📈 815 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向大规模Web数据获取的上下文API，支持搜索、抓取并与网页交互，可提取结构化数据供AI使用。适合构建知识库、训练语料、RAG管道和数据处理应用，开发者可快速集成。"
+      "summary": "Firecrawl 是一个可规模化的网页上下文 API，支持搜索、抓取和交互式数据提取。它能把网页内容转换为结构化数据，供 LLM 应用使用，适合 RAG、数据采集和 AI Agent 网络访问等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "excerpt": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "meta": "Python · ★ 97,177 · 🍴 18,731 · 📈 234 stars today",
+      "meta": "Python · ★ 97,189 · 🍴 18,733 · 📈 234 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于多智能体LLM的金融交易框架，模拟分析师、交易员、风控等角色的协作流程，进行市场分析和投资决策。适用于量化研究、智能投顾和交易策略回测等场景。"
+      "summary": "TradingAgents 是一个基于多代理 LLM 的金融交易框架，模拟分析师、交易员、风控等多个角色协作决策，提供情绪分析、基本面研究与策略生成，适合量化研究与 AI 交易系统开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "excerpt": "",
-      "meta": "Python · ★ 7,325 · 🍴 952 · 📈 327 stars today",
+      "meta": "Python · ★ 7,330 · 🍴 953 · 📈 327 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google DeepMind 推出的天气预报项目，利用机器学习技术提升气象预测的精度与效率。适用于短期天气预报、极端天气预警和气候研究，具体技术细节尚待官方披露。"
+      "summary": "WeatherNext 是 Google DeepMind 开源的天气预报项目，旨在用深度学习提升中期气象预测能力，支持研究人员与开发者构建更精准的天气服务。"
     },
     {
       "sourceId": "github-trending",
       "title": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "excerpt": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "meta": "Python · ★ 3,492 · 🍴 544 · 📈 682 stars today",
+      "meta": "Python · ★ 3,504 · 🍴 545 · 📈 682 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Monorepo 的代码检索增强生成（RAG）工具，利用知识图谱索引多语言代码库，支持自然语言查询、代码理解和跨文件修改。适合大型团队在复杂代码库中快速定位逻辑、生成变更。"
+      "summary": "code-graph-rag 是为大型 monorepo 设计的 RAG 系统，结合知识图谱与 AI，支持跨语言代码库的查询、理解与编辑。它构建代码语义关系索引，让 LLM 精准定位相关模块，适合复杂工程中的代码智能助手。"
     },
     {
       "sourceId": "github-trending",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "excerpt": "",
-      "meta": "TypeScript · ★ 18,001 · 🍴 4,075 · 📈 388 stars today",
+      "meta": "TypeScript · ★ 18,013 · 🍴 4,076 · 📈 388 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "T3 生态相关的代码项目，具体功能未在简介中说明，需查看仓库文档获取详情。"
+      "summary": "t3code 是 pingdotgg 团队开源的一个项目，目前缺少官方描述。从命名习惯推测，它可能服务于 TypeScript 全栈开发或 T3 Stack 相关工具链，具体用途与用法需以仓库 README 说明为准。"
     },
     {
       "sourceId": "github-trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "excerpt": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "meta": "Python · ★ 126,259 · 🍴 14,897 · 📈 921 stars today",
+      "meta": "Python · ★ 126,282 · 🍴 14,897 · 📈 921 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "模块化扩散模型图形界面与后端，采用图/节点式工作流，可灵活组合图像生成流程。支持SD等扩散模型，提供API供程序调用。适合AI绘画创作者、模型微调者及需要自定义生成管线的开发者。"
+      "summary": "ComfyUI 是最流行的模块化扩散模型图形界面，基于节点式工作流，支持 Stable Diffusion 等模型的组合、调参与部署。它提供可视化 API 和后端，适合 AI 绘画创作者与开发者构建可复现的图像生成流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "opa334/Dopamine",
       "url": "https://github.com/opa334/Dopamine",
       "excerpt": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "meta": "C · ★ 6,005 · 🍴 6,192 · 📈 95 stars today",
+      "meta": "C · ★ 6,011 · 🍴 6,192 · 📈 95 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "支持iOS 15至26.0.1的半不完美越狱工具，刷机重启后需重新激活。可为iPhone等设备安装自定义应用、主题和系统插件，适合爱折腾的用户和越狱社区开发者。"
+      "summary": "Dopamine 是一个面向 iOS 15 至 26(.0.1) 的半不完美越狱工具，无需越狱后保留完整引导，重启后需重新激活。支持快速安装插件与自定义系统，适合安全研究人员和越狱爱好者探索 iOS 内部机制。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -192,7 +192,7 @@
       "sourceId": "v2ex-hot",
       "title": "Mac 和 Windows 可以共用一套键鼠吗",
       "url": "https://www.v2ex.com/t/1233018",
-      "excerpt": "47 回复 · Apple 节点",
+      "excerpt": "48 回复 · Apple 节点",
       "publishedAt": "2026-08-09T03:31:16.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -394,7 +394,7 @@
       "publishedAt": "2026-08-10T14:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI致信得克萨斯州州长Greg Abbott，承诺在该州建设负责任的AI基础设施，支持可靠、透明的增长，以惠及得州居民。"
+      "summary": "OpenAI致信德州州长Greg Abbott，承诺在德州建设负责任的AI基础设施，支持可靠、透明的增长，使德州居民受益。"
     },
     {
       "sourceId": "openai-news",
@@ -404,7 +404,7 @@
       "publishedAt": "2026-08-10T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Model ML公司使用OpenAI的GPT-5.6 Sol更高效地完成财务工作，涵盖研究分析，并产出可编辑、可追溯的PowerPoint演示文稿和Excel工作簿。"
+      "summary": "Model ML使用GPT-5.6 Sol完成财务工作，从研究和分析到生成可编辑、可溯源的PowerPoint演示文稿与Excel工作簿。"
     },
     {
       "sourceId": "openai-news",
@@ -414,7 +414,7 @@
       "publishedAt": "2026-08-10T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI首席财务官Sarah Friar分享构建AI原生财务职能的五条经验，涵盖自动化预测、强化财务管控以及衡量AI投资回报率等方面。"
+      "summary": "OpenAI首席财务官Sarah Friar分享打造AI原生财务部门的五条经验，涵盖自动化预测、强化财务管控以及衡量AI投资回报率。"
     },
     {
       "sourceId": "openai-news",
@@ -424,7 +424,7 @@
       "publishedAt": "2026-08-10T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出网络安全专用模型GPT-5.6-Cyber，通过Daybreak Red平台提供，用于授权漏洞研究、漏洞验证和安全测试，以缩小网络防御窗口。"
+      "summary": "OpenAI推出网络安全专用模型GPT-5.6-Cyber，通过Daybreak Red平台供授权漏洞研究、利用验证和安全测试使用。"
     },
     {
       "sourceId": "openai-news",
@@ -434,7 +434,7 @@
       "publishedAt": "2026-08-10T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI正将前沿网络模型交到更多可信机构手中：获批的Daybreak合作伙伴可使用这些模型，向客户提供经授权、受治理的网络安全服务。"
+      "summary": "OpenAI将前沿网络模型交给获批准的Daybreak合作伙伴，使其能够向客户提供授权、受治理的网络安全服务。"
     },
     {
       "sourceId": "openai-news",
@@ -444,7 +444,27 @@
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI宣布ChatGPT Business将推出高级席位，8月20日前注册可获得100美元工作区积分，并解锁团队高需求工作的更高使用额度。"
+      "summary": "ChatGPT Business将推出高级席位。8月20日前注册可获得100美元工作区积分，并为团队最繁重的工作解锁更高使用额度。"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "excerpt": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News",
+      "summary": "Zapier企业营销团队使用ChatGPT Work优化核心营销流程，减少销售线索漏斗中的流失，构建营销活动资产并自动化报告。"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "excerpt": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News",
+      "summary": "维珍大西洋航空采用ChatGPT Work加速研究、产品规划和决策，帮助团队连接客户旅程中的各类信号，优化客户体验。"
     },
     {
       "sourceId": "openai-news",
@@ -641,24 +661,6 @@
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "excerpt": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "publishedAt": "2026-07-27T03:30:00.000Z",
-      "category": "tech",
-      "source": "OpenAI News"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "category": "tech",
-      "source": "OpenAI News"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "excerpt": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News"
     },
@@ -940,7 +942,7 @@
       "publishedAt": "2026-08-10T16:25:36.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA发布Magpie TTS，这是一个低延迟多语言语音代理构建方案，开放模型权重，开发者可完全掌控部署流程，适用于实时语音交互场景。"
+      "summary": "NVIDIA发布Magpie TTS，用于构建低延迟多语言语音代理，提供开放权重与完整部署控制，方便开发者自主部署。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -950,7 +952,7 @@
       "publishedAt": "2026-08-10T10:05:36.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客发表文章，介绍高效知识蒸馏方法，目标是让蒸馏成本足够低以支撑规模化应用，减少大模型压缩与部署的资源开销。"
+      "summary": "一篇新文章探讨如何让知识蒸馏成本足够低、从而实现大规模应用，旨在降低高效模型训练的门槛并推动普及。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -960,7 +962,7 @@
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客介绍Meta发布的新模型Muse Glimmer，支持本地化、智能体化、多模态任务，并开放源代码，开发者可自主部署与定制。"
+      "summary": "Meta推出Muse Glimmer模型，主打本地运行、智能体能力、多模态与开源特性，延续其在开源AI领域的最新布局。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -969,8 +971,7 @@
       "excerpt": "",
       "publishedAt": "2026-08-07T17:53:32.000Z",
       "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客发布了TutorMoments这一研究项目，核心问题在于AI辅导系统能否判断何时提供帮助、何时保持克制，也就是如何决定干预时机。"
+      "source": "Hugging Face Blog"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1212,7 +1213,7 @@
       "url": "https://huggingface.co/papers/2608.04302",
       "excerpt": "Benchmarking video-language models has largely focused on short clips and single-sentence metrics, leaving open whether current systems can generate accurate long-form, paragraph-level descriptions. We introduce CLIP-CC-Bench, an evaluation suite for long-form video description built from 5 hours of",
       "publishedAt": "2026-08-05T00:00:00.000Z",
-      "meta": "👍 0",
+      "meta": "👍 1",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1232,7 +1233,7 @@
       "url": "https://huggingface.co/papers/2608.04205",
       "excerpt": "Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We therefore introduce MatrAIx, a population-scale simulated-user evaluation infrastructure for testing",
       "publishedAt": "2026-08-04T00:00:00.000Z",
-      "meta": "👍 11",
+      "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1342,7 +1343,7 @@
       "url": "https://huggingface.co/papers/2608.06501",
       "excerpt": "Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to evaluate because explicit targets and reward signals are scarce compared with accuracy-oriented tasks. Cross-concept understanding is a core cognitive capacity underlying r",
       "publishedAt": "2026-08-06T00:00:00.000Z",
-      "meta": "👍 1",
+      "meta": "👍 2",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1412,7 +1413,7 @@
       "url": "https://huggingface.co/papers/2608.02148",
       "excerpt": "Multimodal representation learning is a cornerstone of modern AI. By encoding multimodal queries and targets into vectors, it powers industrial search and recommendation and underpins modern agents. Real-world platforms with complex modalities and massive-scale content, such as Douyin, Xiaohongshu, ",
       "publishedAt": "2026-08-03T00:00:00.000Z",
-      "meta": "👍 7",
+      "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1514,7 +1515,7 @@
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 8月10日新闻简报：OpenAI的Astra项目暂停；Claude Code获得跨会话能力；另文解析Cursor Router的工作原理。"
+      "summary": "本期TLDR AI简报涵盖OpenAI暂停Astra项目、Claude Code跨会话功能，以及Cursor Router的工作原理等热点。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1964,8 +1965,7 @@
       "excerpt": "a quiet day lets us find some connections among recent themes",
       "publishedAt": "2026-08-08T01:12:07.000Z",
       "category": "tech",
-      "source": "Latent Space",
-      "summary": "Latent Space发布AI新闻简报，标题为“多智能体的Zawinski法则”，作者称在平静的一天中找到近期多个主题之间的关联，探讨多智能体现象。"
+      "source": "Latent Space"
     },
     {
       "sourceId": "latent-space",
@@ -2146,7 +2146,7 @@
       "publishedAt": "2026-08-10T20:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT科技评论报道，AI教授们正在应对学术研究的新现实。作者前往加州山景城一家酒店，参加一场汇聚多位顶尖学者的会议，共同探讨AI对学术界的影响。"
+      "summary": "AI教授们正协商学术研究的新现实。上周在加州山景城的一家酒店，众多顶尖学者齐聚，探讨AI对学术研究带来的变化与挑战。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2156,7 +2156,7 @@
       "publishedAt": "2026-08-10T09:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT科技评论文章指出，AI用于科学研究需要推理能力，而不仅仅是数据。文章引用物理学家Albert Michelson和霍金关于科学终结的预言，反思AI在科学发现中的角色。"
+      "summary": "文章指出AI用于科学需要推理能力，而不仅是数据。回顾1903年物理学家迈克尔逊称物理事实已被发现，霍金也曾预言理论物理将终结。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2166,7 +2166,7 @@
       "publishedAt": "2026-08-10T09:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT科技评论“What's Next”系列报道聚焦追逐大语言模型下一个突破的初创公司，回溯2017年Google发表“Attention Is All You Need”论文以来的AI发展脉络。"
+      "summary": "文章介绍了初创公司正追逐LLM领域的下一件大事。回溯2017年谷歌发表论文「Attention Is All You Need」，开启了大语言模型研究浪潮。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2240,7 +2240,7 @@
       "category": "tech",
       "meta": "@DimitrisPapail · 28.5K 粉丝 · 142.1K 阅 · 522 赞 · 86 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者发现 GPT-5.6 与 Claude Fable 似乎解决了无线通信领域一个悬而未决 25 年的理论难题。该问题曾在 2000 到 2010 年代被广泛研究，作者也曾短暂涉足。这展示了新模型在数学推导上的潜力。"
+      "summary": "GPT-5.6和Claude Fable似乎解决了一个无线通信领域悬置25年的开放理论问题。该问题在2000至2010年代曾被深入研究，作者也曾短暂参与。这被视为AI在专业理论问题上的新突破，或为AI科研应用提供新案例。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2251,7 +2251,7 @@
       "category": "tech",
       "meta": "@XFreeze · 253.7K 粉丝 · 60.9K 阅 · 515 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "不到 12 周，Grok Build 已从终端编码助手进化为完整智能体软件工程平台，跻身最强 agent 工具之一。博主整理其最关键的新特性，展示它如何快速演进，值得关注正在爆发的新 agent 平台。"
+      "summary": "作者指出，Grok Build在不到12周内从终端编码助手进化为完整的agentic软件工程平台，成为全球最强agent harness之一。本文盘点其最关键的特性，对关注AI编程工具的人来说值得一读。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2262,7 +2262,37 @@
       "category": "tech",
       "meta": "@jino_rohit · 6.9K 粉丝 · 20.3K 阅 · 519 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一篇实测型教程：用 SGLang 内置的 Torch Profiler 剖析 LLM 推理服务性能。作者以实际请求为例，教大家通过 profiling 定位瓶颈、理解底层行为，对做推理优化和性能调参的开发者很有参考价值。"
+      "summary": "作者以学习笔记的形式，演示如何借助SGLang内置的Torch Profiler集成为LLM推理服务做性能剖析，目标是理解何时触发剖析并读懂输出。适合希望优化推理性能的开发者参考。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
+      "excerpt": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
+      "publishedAt": "2026-08-10T23:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "外汇交易员加大对新台币的看涨期权押注，押注其反弹，显示市场情绪出现转变。此前新台币录得2015年以来最差的7月表现。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Aug. 11",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
+      "excerpt": "Oil held a three-day gain after President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
+      "publishedAt": "2026-08-10T22:02:35.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国总统特朗普对伊朗提出一系列广泛新要求，令重启关键霍尔木兹海峡的协议前景蒙上阴影。油价因此连续第三个交易日上涨。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SEC Alleges Fund Adviser Misled Investors in Pre-IPO Schemes",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
+      "excerpt": "Investment adviser Adit Ventures and co-founder Eric Munson were accused by the US Securities and Exchange Commission of making false claims about investments and overcharging clients with millions of dollars in undisclosed fees to buy shares of companies including SpaceX and Klarna before they were",
+      "publishedAt": "2026-08-10T22:27:20.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国证交会（SEC）指控投资顾问公司Adit Ventures及其联合创始人Eric Munson在Pre-IPO投资计划中误导投资者，就投资作出虚假陈述，并收取数百万美元未披露费用，涉及SpaceX等公司股份。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2271,8 +2301,17 @@
       "excerpt": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: JPMorgan Investment Management Chief ETF Strategist Jon Maier, BlackRock Head of Digital Assets Robert Mitchnick, Avantis Investors",
       "publishedAt": "2026-08-10T20:48:54.000Z",
       "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Holds Gains, Asian Stocks Set for Muted Open: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Oil held onto a rally as hopes faded for a deal to reopen the Strait of Hormuz, while Asian stocks were set for a muted start ahead of key US inflation reports.",
+      "publishedAt": "2026-08-10T22:08:16.000Z",
+      "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "本期“ETF IQ”节目聚焦比特币遭黑客攻击后ETF是否更安全、小盘股等话题，嘉宾包括摩根大通ETF首席策略师Jon Maier和贝莱德数字资产主管Robert Mitchnic。"
+      "summary": "市场人士对重启霍尔木兹海峡的协议达成希望减弱，油价保持涨势。与此同时，在美国关键通胀数据公布前，亚洲股市预计将平淡开盘。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2282,7 +2321,7 @@
       "publishedAt": "2026-08-10T21:54:50.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "据彭博社报道，另类投资公司777 Partners在债权人寻求清算数周后申请破产，该公司一年多前已开始出售资产。"
+      "summary": "另类投资公司777 Partners在债权人寻求清算数周后申请破产。该公司一年多前已开始出售资产，目前仅剩残余部分面临清算。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2292,7 +2331,7 @@
       "publishedAt": "2026-08-10T21:45:03.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国深南部大学女生联谊会入会竞争激烈，一些家长愿支付6500美元聘请外部“入会教练”指导，彭博记者Gabriel Baumgaertner报道了这一趋势。"
+      "summary": "美国南部大学女生联谊会招募竞争激烈，外来申请者愿支付6500美元聘请“招募教练”以提高获录取机会。据彭博报道，部分家长愿为此投入高价。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2302,7 +2341,7 @@
       "publishedAt": "2026-08-10T21:43:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国总统特朗普在与行业高管会晤时宣布30亿美元投资，用于加强国内关键矿产和采矿业，以减少对中国主导供应链的依赖。"
+      "summary": "美国总统特朗普在与行业高管会晤时宣布30亿美元投资，以强化国内关键矿产开采行业。该计划旨在减少美国对中国主导供应链的依赖。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2312,7 +2351,7 @@
       "publishedAt": "2026-08-10T21:22:55.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "远程医疗公司Hims & Hers下调全年调整后EBITDA预测上限，该指标为息税折旧及摊销前利润，消息公布后股价下跌。"
+      "summary": "远程医疗公司Hims & Hers下调全年调整后EBITDA预期上限，股价随之下跌。该公司此前已降低利润预测，最新调整进一步打压市场情绪。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2321,12 +2360,11 @@
       "excerpt": "Chicago is hiring Ashlee Gabrysch, a senior director at Fitch Ratings, as its next chief financial officer, according to a person familiar with the matter.",
       "publishedAt": "2026-08-10T21:20:20.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "在多名官员离职的背景下，芝加哥市聘请惠誉评级高级董事Ashlee Gabrysch出任新一任首席财务官，据知情人士透露。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Yen Weakens as Intervention Efforts Proving to Be Short-Lived",
+      "title": "Yen Erases Half of Intervention Gains as Traders Test Bessent",
       "url": "https://www.bloomberg.com/news/articles/2026-08-10/yen-underperforms-g-10-peers-as-intervention-boost-fades",
       "excerpt": "The yen swung to a loss, sapping momentum from efforts by the US and Japan authorities to boost the currency.",
       "publishedAt": "2026-08-10T03:26:41.000Z",
@@ -2358,8 +2396,7 @@
       "excerpt": "A growing share of equity leverage is riding on the same AI names, many of which have seen historic swings.",
       "publishedAt": "2026-08-10T21:00:23.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "彭博分析显示，股票杠杆日趋集中于少数AI相关公司，其中许多个股出现历史性波动，杠杆ETF风险可能蔓延至更广泛股市。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2377,8 +2414,7 @@
       "excerpt": "Craig Stevenson, CEO of Gotham Greens, addressed the ongoing concerns over food safety amid recent recalls linked to salmonella in jalapenos and the widespread Cyclospora outbreak affecting thousands in the U.S. He noted a temporary decline in consumer demand for greens as news of outbreaks circulat",
       "publishedAt": "2026-08-10T20:56:55.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Gotham Greens首席执行官Craig Stevenson表示，发生这样的疫情“不是好事”。受墨西哥辣椒沙门氏菌召回及环孢子虫疫情扩散影响，消费者对生菜需求暂时下降。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2405,8 +2441,7 @@
       "excerpt": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with David Gura, Isabelle Lee, Norah Mulinda and Tim Stenovec. (Source: Bloomberg)",
       "publishedAt": "2026-08-10T20:25:13.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "彭博“收盘钟”节目报道，市场等待中东局势进一步明朗，油价跳涨。节目覆盖美国市场收盘情况，在彭博电视、广播及YouTube播出。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2414,43 +2449,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-08-10/hoenig-upcoming-data-will-be-deciding-factor-for-fed-video",
       "excerpt": "Thomas Hoenig, Distinguished Senior Fellow at the Mercatus Center, discussed the Federal Reserve's current stance amid recent economic data. He emphasized that the Fed is maintaining a cautious, wait-and-see attitude as it awaits upcoming inflation reports, including CPI and PPI data, which will be ",
       "publishedAt": "2026-08-10T20:19:51.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Mercatus中心杰出高级研究员Thomas Hoenig表示，美联储目前保持谨慎观望，即将公布的CPI、PPI等通胀数据将是决定下一步政策的关键因素。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/strategy-sells-more-bitcoin-stock-to-bolster-cash-stockpile",
-      "excerpt": "Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve.",
-      "publishedAt": "2026-08-10T13:02:43.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Stocks Churn as Hormuz Standoff Spurs Rally in Oil: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "A rally in oil prices left stocks wavering while bond yields climbed, with trader anxiety building just days ahead of key inflation reports.",
-      "publishedAt": "2026-08-09T22:11:01.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "US High-Grade Bond Market Sees Most Issuers Since January",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/us-high-grade-bond-market-sees-the-most-issuers-since-january",
-      "excerpt": "A record pace in US investment-grade bond issuance continued Monday with 19 firms storming the market, the most in seven months.",
-      "publishedAt": "2026-08-10T15:02:32.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Dating App Grindr Unveils New AI Features, Premium Tier",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/dating-app-grindr-unveils-new-ai-features-premium-tier-video",
-      "excerpt": "Grindr CEO George Arison said that new AI features and premium tiers are popular with users but that the company is still working out how to price the optional upgrades. Arison said that when it comes to the app's AI rollout, information gathered by AI can help users feel more comfortable meeting up",
-      "publishedAt": "2026-08-10T19:43:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2642,7 +2640,7 @@
       "publishedAt": "2026-08-10T21:42:54.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "阿波罗、黑石和高盛等华尔街巨头与英伟达合作，为数据中心热潮筹集资本，共同推进一项5000亿美元的AI融资计划。"
+      "summary": "Apollo、黑石集团和高盛等华尔街巨头与英伟达合作，参与一项5000亿美元的AI融资交易，为数据中心建设热潮筹集资本。"
     },
     {
       "sourceId": "ft-companies",
@@ -2652,7 +2650,7 @@
       "publishedAt": "2026-08-10T21:30:08.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国伯纳姆（Burnham）计划打击电子烟商店和博彩店以重振商业街，议会将获得额外权力限制不受欢迎的零售商，“让市中心恢复生机”。"
+      "summary": "英国首相伯纳姆将打击电子烟店和博彩店以振兴商业街。议会将获额外权力限制不受欢迎的零售商，让城镇中心重现活力。"
     },
     {
       "sourceId": "ft-companies",
@@ -2863,6 +2861,26 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "publishedAt": "2026-08-10T22:31:42.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "英伟达获得多家大型银行5000亿美元融资，用于开发AI数据中心。这些数据中心将容纳、运营并冷却成英里长的堆叠计算机芯片，以处理AI数据和任务。"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+      "publishedAt": "2026-08-10T21:33:51.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "英国首相安迪·伯纳姆宣布，地方政府将获得更多权力，以阻止电子烟店和博彩店开设。他表示，城镇中心因数十年衰退已被“掏空”。"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "Thames Water gave finance boss a £1m signing-on fee",
       "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
@@ -2890,6 +2908,15 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "'You could smell someone' who worked at Raleigh",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
+      "publishedAt": "2026-08-10T05:10:15.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
       "url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
@@ -2903,15 +2930,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Tech companies are not modelling their own claims of the technology giving people more free time.",
       "publishedAt": "2026-08-10T05:00:32.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "'You could smell someone' who worked at Raleigh",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
-      "publishedAt": "2026-08-10T05:10:15.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3083,24 +3101,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
       "excerpt": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
       "publishedAt": "2026-08-06T11:06:26.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Meta becomes latest firm to say its AI hacked another company",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-      "publishedAt": "2026-08-06T05:53:58.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "US beef prices have soared but farmers aren't making more money",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The meat has never been more expensive, due to supply shortages, but there's a big squeeze on profits.",
-      "publishedAt": "2026-08-05T23:23:05.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3459,11 +3459,10 @@
       "sourceId": "bbc-world",
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "publishedAt": "2026-08-10T21:33:25.000Z",
+      "excerpt": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "publishedAt": "2026-08-10T23:03:52.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "特朗普签署行政令，限制儿童疫苗并拆分麻疹、腮腺炎、风疹三联疫苗（MMR）。特朗普政府建议将三联疫苗改为三种单独接种，在多次就诊中分别注射。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3620,13 +3619,12 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
+      "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
       "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
       "excerpt": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota",
-      "publishedAt": "2026-08-10T22:00:05.000Z",
+      "publishedAt": "2026-08-10T22:45:30.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "哥伦比亚7.4级地震已致逾100人死亡，多栋建筑倒塌并引发疏散。卡利市市长亚历杭德罗·埃德尔表示，该市超24座建筑坍塌，仍有民众被困。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3713,11 +3711,10 @@
       "sourceId": "guardian-world",
       "title": "Australia politics live: gambling lobby talking points ‘coming out the PM’s mouth’, Chaney says; RBA tipped to hold interest rates",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-      "excerpt": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament. Follow today’s news live Get our breaking news email, free app or daily news podcast What happened to Tony Burke’s migration speech? We’re all still pretty baffled in Canberra over what happened to T",
-      "publishedAt": "2026-08-10T22:01:07.000Z",
+      "excerpt": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament. Follow today’s news live Get our breaking news email, free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’t mean Anthony Albanes",
+      "publishedAt": "2026-08-10T22:51:23.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "澳大利亚政坛动态：独立议员Chaney指责赌博游说团体的谈话要点“从总理口中说出”。澳大利亚储备银行（RBA）预计将维持利率不变。工党正寻求与联盟党协商，推动多项立法通过议会。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3850,10 +3847,9 @@
       "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
       "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
       "excerpt": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
-      "publishedAt": "2026-08-10T22:04:52.000Z",
+      "publishedAt": "2026-08-10T22:56:05.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "哥伦比亚发生7.4级强震，波哥大、卡利和麦德林等主要城市均有震感。总统表示，目前至少111人遇难，随着救援人员搜寻受损建筑，死亡人数可能进一步上升。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -3889,8 +3885,7 @@
       "excerpt": "The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.",
       "publishedAt": "2026-08-10T22:00:49.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "以色列总理内塔尼亚胡在特朗普提出的加沙解除武装协议上走钢丝。面对即将到来的艰难选举，他试图同时满足右翼基本盘与特朗普总统有时相互冲突的要求。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -3975,13 +3970,30 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html",
+      "excerpt": "A propane tank and several containers of what were believed to be flammable liquids were found inside the man’s vehicle in a nearby parking garage, the police in Halifax said.",
+      "publishedAt": "2026-08-10T22:57:18.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Here Is Where Colombia’s Quake Hit Hardest",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-quake-maps.html",
+      "excerpt": "A line of cities near the epicenter sustained major damage, images show. The Colombian capital appeared largely spared.",
+      "publishedAt": "2026-08-10T22:56:02.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
       "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
       "excerpt": "The party, Yabloko, has navigated a delicate balancing act with an increasingly heavy-handed Kremlin, but its pro-peace manifesto turned out to be the red line.",
       "publishedAt": "2026-08-10T22:15:53.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "俄罗斯反战政党“亚博卢”被禁止参加议会选举。该党长期在克里姆林宫日益强硬的态度下寻求平衡，但其倡导和平的竞选纲领成为触发禁令的“红线”。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -3990,8 +4002,7 @@
       "excerpt": "The government adopted a law that might prove a significant step toward ending an outlawed group’s decades-long battle with the Turkish state.",
       "publishedAt": "2026-08-10T21:51:30.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "土耳其政府通过一项法律，此举可能成为终结库尔德工人党（P.K.K.）与土耳其国家数十年冲突的重要一步，推动和平进程取得进展。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4000,8 +4011,7 @@
       "excerpt": "A pair of brothers who lost their mother and other family members in Venezuela and were profiled by The New York Times have now survived deadly quakes in two countries.",
       "publishedAt": "2026-08-10T21:47:14.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "一对十几岁的委内瑞拉兄弟曾在祖国失去母亲和其他家人，并获《纽约时报》报道。如今，哥伦比亚地震又迫使他们离开新家。兄弟俩已在两个国家经历致命地震。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4010,8 +4020,7 @@
       "excerpt": "The British scholar resigned from Cambridge after the university, which made him its youngest Black professor in 2023, began investigating his academic qualifications.",
       "publishedAt": "2026-08-10T21:42:12.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "英国学者杰森·阿尔迪的回忆录引发关注。剑桥大学2023年任命他为最年轻的黑人教授，但随后对其学术资质展开调查，他最终辞职。回忆录揭示相关内情与启示。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4047,8 +4056,7 @@
       "excerpt": "Abelardo De La Espriella had never held public office until his inauguration on Friday. Now, he is at the helm of a major disaster response.",
       "publishedAt": "2026-08-10T22:04:50.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "哥伦比亚新总统阿贝拉多·德·拉·埃斯普列利亚上周五宣誓就职，此前从未担任公职。如今，他正领导该国应对这场重大地震灾害，面临严峻考验。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4057,8 +4065,7 @@
       "excerpt": "The most powerful temblor in a decade struck in a Pacific Coast region, killing over 100 people.",
       "publishedAt": "2026-08-10T22:04:02.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "哥伦比亚太平洋沿岸地区遭遇十年来最强地震，已造成逾100人遇难。灾区现场图片陆续浮现，显示建筑物损毁严重。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4102,24 +4109,6 @@
       "url": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
       "excerpt": "A photojournalist with The New York Times details the displacement and danger, in words and images, that have come to define his home.",
       "publishedAt": "2026-08-10T04:36:22.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-      "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-      "excerpt": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
-      "publishedAt": "2026-08-09T17:58:22.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Syria Agrees to Reorganized Russian Military Presence",
-      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-      "excerpt": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
-      "publishedAt": "2026-08-09T15:57:54.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4485,13 +4474,39 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+      "excerpt": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
+      "publishedAt": "2026-08-10T22:46:32.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+      "url": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
+      "excerpt": "Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.",
+      "publishedAt": "2026-08-10T22:41:03.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+      "excerpt": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+      "publishedAt": "2026-08-10T22:35:48.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
       "excerpt": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
       "publishedAt": "2026-08-10T21:48:23.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "哥伦比亚新就职总统阿贝拉多·德·拉·埃斯普列利亚宣布，将亲自领导波哥大地震受灾地区的紧急救援行动，以应对这场自然灾害。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4500,8 +4515,7 @@
       "excerpt": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
       "publishedAt": "2026-08-10T21:29:32.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "在经历创纪录高温后，欧洲再度面临热浪。英国和法国已发布极端高温预警，预计本周气温将达到30多摄氏度。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4510,8 +4524,7 @@
       "excerpt": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
       "publishedAt": "2026-08-10T21:15:41.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "印度尼西亚多起野火持续燃烧。数千名消防员和数十架直升机正在奋力扑救。官方将厄尔尼诺现象列为此轮野火的原因之一。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4520,8 +4533,7 @@
       "excerpt": "Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.",
       "publishedAt": "2026-08-10T21:14:16.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "土耳其批准一项类似赦免的法案，惠及数千名库尔德工人党（PKK）武装分子。法案设想允许部分放下武器者回归平民生活，为和平进程铺路。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4682,33 +4694,6 @@
       "url": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
       "excerpt": "Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.",
       "publishedAt": "2026-08-10T16:28:34.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
-      "url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
-      "excerpt": "Netanyahu's declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.",
-      "publishedAt": "2026-08-10T16:24:13.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Sudan’s army chief holds unannounced talks on national dialogue",
-      "url": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
-      "excerpt": "Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.",
-      "publishedAt": "2026-08-10T16:03:43.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
-      "url": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
-      "excerpt": "The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.",
-      "publishedAt": "2026-08-10T16:01:06.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
